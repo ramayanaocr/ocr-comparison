@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=SRH_Deva2(htr_id=16440)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-03T15:55:24.755+02:00</Created>
+        <LastChange>2019-09-04T16:56:41.140+02:00</LastChange>
+        <TranskribusMetadata docId="204813" pageId="8640403" pageNr="3" tsid="15157556" status="GT" userId="40797" imgUrl="https://files.transkribus.eu/Get?id=HGYKJRQWPHEZVFQGMKZWPHGZ&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=XJKVXCYTJAISQQDBYWRKSSDT" imageId="5510617"/>
+    </Metadata>
+    <Page imageFilename="ram005.png" imageWidth="3873" imageHeight="5848">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1570965633913" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="294,428 294,3983 3478,3983 3478,428"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="1654,475 1673,474 1693,488 1755,490 1745,501 1796,481 1804,500 2264,505 2263,378 1762,371 1734,360 1650,364"/>
+                <Baseline points="1858,491 1886,487 1915,485 1944,484 1973,484 2002,485"/>
+                <TextEquiv>
+                    <Unicode>( ॥।)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l9" custom="readingOrder {index:1;}">
+                <Coords points="333,796 708,821 1092,796 1554,822 1762,811 3470,799 3611,655 2003,577 1751,678 1617,627 1467,659 1165,632 1004,637 334,635"/>
+                <Baseline points="365,768 459,772 554,775 648,777 743,779 838,780 932,780 1027,780 1122,779 1216,779 1311,778 1406,778 1500,777 1595,777 1690,777 1784,778 1879,780 1974,782 2068,785 3246,780 3341,785"/>
+                <TextEquiv>
+                    <Unicode>विषयानुक्रम से विस्तार पूर्वक लिपिवद्ध करने का दै । अतएव </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l13" custom="readingOrder {index:2;}">
+                <Coords points="328,979 2641,995 3227,965 3244,817 318,842"/>
+                <Baseline points="346,955 490,957 634,959 779,961 923,962 1067,963 1212,963 1356,963 1500,963 1645,963 1789,962 1933,961 2078,960 2222,958 2366,956 2511,954 2655,951 2799,948 2944,946 3088,942 3233,938"/>
+                <TextEquiv>
+                    <Unicode>ग्रन्थ के पाठकों. क पररिशिष्ट भाग छपने तक धैर्य ध।रण करने</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l14" custom="readingOrder {index:3;}">
+                <Coords points="353,1146 729,1181 868,1179 1374,1212 1468,1198 2374,1171 2365,1008 1371,997 1330,995 1055,1041 974,1006 354,1038"/>
+                <Baseline points="374,1138 441,1142 508,1146 576,1148 643,1149 711,1149 778,1149 846,1148 913,1147 981,1146 1048,1145 1115,1144 1183,1143 1250,1143 1318,1142 1385,1143 1453,1144 1520,1147 1588,1150 2271,1166 2339,1172"/>
+                <TextEquiv>
+                    <Unicode>अनुवादक की ओर से साग्रह अजुराध है ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l18" custom="readingOrder {index:4;}">
+                <Coords points="550,1441 3120,1398 3122,1282 3045,1244 552,1313"/>
+                <Baseline points="578,1397 710,1399 843,1400 976,1401 1109,1402 1241,1401 1374,1401 1507,1400 1640,1399 1772,1398 1905,1396 2038,1394 2171,1392 2303,1390 2436,1387 2569,1385 2702,1382 2834,1380 2967,1377 2971,1384 3104,1382"/>
+                <TextEquiv>
+                    <Unicode>अनुवादक को अनुवाद के विषय में विशेष कुछ भी </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l21" custom="readingOrder {index:5;}">
+                <Coords points="321,1643 1048,1614 1270,1632 1482,1624 1615,1613 1848,1590 3495,1604 3492,1439 1865,1475 1491,1463 1347,1435 1223,1430 316,1451"/>
+                <Baseline points="354,1634 431,1634 2050,1580 2128,1579 2205,1578 2283,1578 2360,1576 2437,1575 2515,1573 2592,1572 2670,1570 2747,1569 2824,1567 2902,1565 2979,1563 3057,1561 3134,1559 3211,1558 3289,1556 3366,1555 3444,1553"/>
+                <TextEquiv>
+                    <Unicode>नहीं है । जो कुछ भला बुरा अनुवाद वह कर सकता है, वह प्रका।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l24" custom="readingOrder {index:6;}">
+                <Coords points="337,1788 2386,1788 2491,1776 3313,1795 3303,1617 1962,1614 335,1684"/>
+                <Baseline points="354,1776 495,1773 636,1770 777,1768 918,1766 1059,1765 1200,1764 1342,1763 1483,1762 1624,1761 1765,1760 1906,1758 2047,1757 2188,1755 2330,1752 2471,1749 2612,1746 2753,1741 2894,1736 3035,1730 3177,1723"/>
+                <TextEquiv>
+                    <Unicode>शक महोदय की सहायता से सर्वसाधारण के सन्मुख </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l26" custom="readingOrder {index:7;}">
+                <Coords points="339,1980 1989,2012 3065,1933 3354,1988 3508,1903 3506,1804 3066,1857 2862,1789 2485,1875 2180,1813 1883,1893 1797,1818 336,1855"/>
+                <Baseline points="367,1997 474,2000 1542,1947 1649,1949 1757,1948 1864,1947 1972,1945 2079,1942 2187,1939 2294,1935 2402,1930 2510,1926 2617,1922 2725,1918 2832,1915 2940,1911 3047,1909 3155,1908 3262,1907 3370,1908 3478,1910"/>
+                <TextEquiv>
+                    <Unicode>किया जाता है ! हिन्दू जाति की इस शोच्य अधःपतित अवस्था</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l33" custom="readingOrder {index:8;}">
+                <Coords points="287,2184 3470,2137 3462,1952 2015,2012 847,2010 318,2018"/>
+                <Baseline points="352,2173 447,2172 808,2141 903,2139 999,2138 1095,2136 1190,2134 1286,2133 1382,2131 1477,2130 1573,2128 1669,2127 1764,2125 1860,2124 1956,2123 2051,2122 2147,2121 2243,2120 2338,2119 3321,2138 3417,2138"/>
+                <TextEquiv>
+                    <Unicode>मे; इस ग्रन्यरल के सुलभ मूल्य पर प्रचार करने से हिन्दुओं की</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l38" custom="readingOrder {index:9;}">
+                <Coords points="313,2333 2577,2300 3453,2271 3452,2152 2423,2221 2215,2139 2090,2237 1824,2159 1672,2238 1530,2166 1273,2211 315,2210"/>
+                <Baseline points="350,2324 465,2321 580,2318 695,2316 810,2315 925,2314 1040,2313 1155,2313 1270,2313 1385,2312 1500,2312 1615,2312 1730,2311 1845,2310 1960,2309 2075,2307 2190,2304 2305,2301 2420,2296 3365,2302 3477,2297"/>
+                <TextEquiv>
+                    <Unicode>प्राचीन सभ्यता, प्राचीन संस्कृति और प्राचीन पद्धतियों क</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l40" custom="readingOrder {index:10;}">
+                <Coords points="334,2510 2522,2528 3402,2472 3440,2323 338,2393"/>
+                <Baseline points="354,2512 507,2510 660,2509 813,2507 966,2505 1119,2502 1272,2500 1426,2497 1579,2494 1732,2491 1885,2487 2038,2484 2191,2480 2344,2477 2498,2473 2651,2470 2804,2467 2957,2463 3110,2460 3263,2457 3417,2454"/>
+                <TextEquiv>
+                    <Unicode>जीयोद्वार हो, इस ग्रन्थ को हिन्दी भाषा में अडुवाद्‌ कर, प्रकाशित,</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l43" custom="readingOrder {index:11;}">
+                <Coords points="275,2672 341,2657 420,2715 608,2709 670,2668 742,2714 819,2707 888,2658 930,2701 3269,2693 3260,2506 588,2553 514,2559 464,2605 276,2615"/>
+                <Baseline points="294,2658 332,2667 370,2673 408,2679 447,2683 485,2686 523,2689 561,2690 600,2690 638,2691 676,2690 714,2689 753,2688 791,2686 829,2685 867,2683 906,2682 944,2681 982,2680 3202,2668 3241,2668"/>
+                <TextEquiv>
+                    <Unicode>करने का अनुवादक और प्रकाशक, दोनों ही का, यह .</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l44" custom="readingOrder {index:12;}">
+                <Coords points="366,2888 462,2894 491,2926 526,2927 549,2905 599,2910 623,2888 668,2897 700,2874 741,2910 802,2912 806,2759 754,2727 719,2726 641,2785 549,2782 504,2750 454,2745 411,2786 369,2788"/>
+                <Baseline points="385,2872 410,2876 435,2879 460,2880 485,2881 510,2881 535,2880 560,2880 585,2879 610,2878 635,2878 660,2879 685,2880 710,2882 735,2886 760,2891 785,2898"/>
+                <TextEquiv>
+                    <Unicode>उद्गेश्य है ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l45" custom="readingOrder {index:13;}">
+                <Coords points="728,3743 794,3772 866,3731 1027,3745 1119,3734 1145,3706 1234,3738 1287,3713 1345,3738 1471,3730 1467,3619 1195,3620 1143,3645 1022,3595 966,3628 725,3640"/>
+                <Baseline points="746,3728 781,3728 816,3728 852,3727 887,3726 922,3725 958,3724 993,3722 1028,3720 1064,3719 1099,3717 1134,3716 1170,3714 1205,3712 1240,3712 1276,3711 1311,3710 1346,3709 1382,3710 1417,3710 1453,3711"/>
+                <TextEquiv>
+                    <Unicode>दारागज-प्रयाग </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l46" custom="readingOrder {index:14;}">
+                <Coords points="2871,3734 2989,3768 3034,3800 3080,3801 3119,3764 3219,3763 3279,3795 3314,3761 3383,3763 3387,3633 2873,3642"/>
+                <Baseline points="2890,3725 2915,3734 2940,3741 2965,3746 2990,3751 3015,3755 3040,3757 3065,3758 3090,3759 3115,3760 3140,3760 3165,3759 3190,3759 3215,3757 3240,3756 3265,3754 3290,3753 3315,3751 3340,3750 3365,3749"/>
+                <TextEquiv>
+                    <Unicode>अनुवादक</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r1l48" custom="readingOrder {index:15;}">
+                <Coords points="357,3904 431,3948 743,3935 798,3966 1916,3935 1926,3794 782,3827 753,3852 670,3834 620,3777 586,3774 478,3836 363,3824"/>
+                <Baseline points="375,3905 403,3910 431,3915 459,3919 488,3922 516,3924 544,3927 573,3930 601,3931 629,3933 658,3934 686,3935 714,3936 742,3938 771,3939 799,3941 827,3943 856,3945 884,3948 912,3951 1925,3940"/>
+                <TextEquiv>
+                    <Unicode>कार्तिक शुक्ला १४शी सँ० १६८२</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>( ॥।)
+विषयानुक्रम से विस्तार पूर्वक लिपिवद्ध करने का दै । अतएव 
+ग्रन्थ के पाठकों. क पररिशिष्ट भाग छपने तक धैर्य ध।रण करने
+अनुवादक की ओर से साग्रह अजुराध है ।
+अनुवादक को अनुवाद के विषय में विशेष कुछ भी 
+नहीं है । जो कुछ भला बुरा अनुवाद वह कर सकता है, वह प्रका।
+शक महोदय की सहायता से सर्वसाधारण के सन्मुख 
+किया जाता है ! हिन्दू जाति की इस शोच्य अधःपतित अवस्था
+मे; इस ग्रन्यरल के सुलभ मूल्य पर प्रचार करने से हिन्दुओं की
+प्राचीन सभ्यता, प्राचीन संस्कृति और प्राचीन पद्धतियों क
+जीयोद्वार हो, इस ग्रन्थ को हिन्दी भाषा में अडुवाद्‌ कर, प्रकाशित,
+करने का अनुवादक और प्रकाशक, दोनों ही का, यह .
+उद्गेश्य है ।
+दारागज-प्रयाग 
+अनुवादक
+कार्तिक शुक्ला १४शी सँ० १६८२</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="3458,2084 3458,2238 3474,2238 3474,2084"/>
+            <TextEquiv>
+                <Unicode></Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Devanagari_nagara_M1(htr_id=7884):SanskritIndexCards.dict:::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+</Creator>
+        <Created>2019-09-22T14:07:02.28+02:00</Created>
+        <LastChange>2019-09-22T14:31:02.908+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: English
+                Language: GermanStandard
+                Language: ItalianStandard
+                Language: EnglishUnitedStates
+                Language: SpanishTraditionalSort
+                Language: DutchStandard
+                Language: FrenchStandard
+                Language: Latin
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="204813" pageId="8640589" pageNr="38" tsid="15748972" status="IN_PROGRESS" userId="40797" imgUrl="https://files.transkribus.eu/Get?id=MOMABRYESZQULMLOORWGOHEH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=FUALKXGQGNZUGQFLBJVBKIFY" imageId="5510803"/>
+    </Metadata>
+    <Page imageFilename="ram040.png" imageWidth="3873" imageHeight="5848">
+        <PrintSpace>
+            <Coords points="192,416 3616,416 3616,5584 192,5584"/>
+        </PrintSpace>
+        <ReadingOrder>
+            <OrderedGroup id="ro_1570965638349" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r_1_1"/>
+                <RegionRefIndexed index="1" regionRef="r_2_1"/>
+                <RegionRefIndexed index="2" regionRef="r_3_1"/>
+                <RegionRefIndexed index="3" regionRef="r_3_2"/>
+                <RegionRefIndexed index="4" regionRef="r_3_3"/>
+                <RegionRefIndexed index="5" regionRef="r_3_4"/>
+                <RegionRefIndexed index="6" regionRef="r_3_5"/>
+                <RegionRefIndexed index="7" regionRef="r_3_6"/>
+                <RegionRefIndexed index="8" regionRef="r_4_1"/>
+                <RegionRefIndexed index="9" regionRef="r_5_1"/>
+                <RegionRefIndexed index="10" regionRef="r_5_2"/>
+                <RegionRefIndexed index="11" regionRef="r_6_1"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion type="paragraph" id="r_1_1" custom="readingOrder {index:0;}">
+            <Coords points="1737,489 2263,489 2263,595 1737,595"/>
+            <TextLine id="tl_1" primaryLanguage="German" custom="readingOrder {index:0;}">
+                <Coords points="1719,586 1955,596 2041,550 2092,597 2167,582 2202,602 2281,583 2282,453 2215,437 1720,449"/>
+                <Baseline points="1738,574 2002,574 2262,578"/>
+                <TextEquiv>
+                    <Unicode>प्रणम; सर्ग;</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Courier New" fontSize="7.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>प्रणम; सर्ग;</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_2_1" custom="readingOrder {index:1;}">
+            <Coords points="3465,505 3587,505 3587,611 3465,611"/>
+            <TextLine id="tl_2" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="3448,602 3487,606 3501,616 3525,614 3580,576 3608,579 3618,473 3599,472 3556,507 3497,501 3486,492 3459,489"/>
+                <Baseline points="3466,598 3586,610"/>
+                <TextEquiv>
+                    <Unicode>५</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Courier New" fontSize="7.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>५</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_1" custom="readingOrder {index:2;}">
+            <Coords points="409,745 3535,745 3535,1459 409,1459"/>
+            <TextLine id="tl_3" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="604,863 3541,880 3541,754 604,734"/>
+                <Baseline points="622,878 706,878 914,882 1342,882 1518,886 1686,874 1998,886 2182,874 2566,894 2982,894 3522,890"/>
+                <TextEquiv>
+                    <Unicode>ये म याद्धरों मे तत्यों का जो भींति जानने बालजे, म</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_4" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="728,1055 3555,1090 3556,976 2767,917 729,949"/>
+                <Baseline points="746,1066 1026,1074 1314,1070 1598,1086 1806,1066 1890,1086 2058,1066 3018,1094 3534,1094"/>
+                <TextEquiv>
+                    <Unicode>करण शक्ि याने, म् प्रतिमा्आाली, सर्व्रिय, प्मसाह्ु</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_5" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="934,1245 1862,1194 2736,1284 2831,1199 3549,1267 3550,1157 3422,1096 3232,1176 2412,1103 2160,1194 2059,1102 1258,1143 1180,1075 936,1139"/>
+                <Baseline points="954,1250 1014,1250 1490,1250 1630,1250 2010,1254 2310,1242 2782,1274 3206,1282 3530,1262"/>
+                <TextEquiv>
+                    <Unicode>प्रदणिल न फकरने दाजे, प्र्ात् बड़े गामा;, प्र</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_6" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="390,1424 2703,1445 2672,1319 2233,1269 1533,1334 391,1291"/>
+                <Baseline points="410,1426 514,1426 894,1422 1450,1442 2178,1434 2250,1438 2386,1438 2574,1438 2682,1438"/>
+                <TextEquiv>
+                    <Unicode>की किक प्रली किक मियाषम्रं मं पु्गल मं ।। ११ ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ये म याद्धरों मे तत्यों का जो भींति जानने बालजे, म
+करण शक्ि याने, म् प्रतिमा्आाली, सर्व्रिय, प्मसाह्ु
+प्रदणिल न फकरने दाजे, प्र्ात् बड़े गामा;, प्र
+की किक प्रली किक मियाषम्रं मं पु्गल मं ।। ११ ।</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_2" custom="readingOrder {index:3;}">
+            <Coords points="1441,1545 2907,1545 2907,1743 1441,1743"/>
+            <TextLine id="tl_7" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="1423,1687 1674,1734 1776,1659 1965,1734 2118,1675 2200,1737 2314,1671 2373,1714 2503,1686 2585,1749 2687,1686 2927,1709 2926,1572 2683,1533 1423,1569"/>
+                <Baseline points="1442,1702 1730,1694 2062,1722 2286,1702 2806,1698 2906,1706"/>
+                <TextEquiv>
+                    <Unicode>सनि सम्यक् व सिन्धुणि ।</Unicode>
+                </TextEquiv>
+                <TextStyle fontFamily="Arial" fontSize="7.0" bold="true"/>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>सनि सम्यक् व सिन्धुणि ।</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_3" custom="readingOrder {index:4;}">
+            <Coords points="713,1737 3111,1737 3111,1955 713,1955"/>
+            <TextLine id="tl_8" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="695,1897 3129,1947 3099,1798 2502,1802 2429,1730 2318,1800 1875,1739 1309,1799 1200,1731 1030,1811 929,1727 696,1799"/>
+                <Baseline points="714,1906 774,1906 958,1938 1006,1926 1130,1906 2570,1930 2722,1938 3110,1942"/>
+                <TextEquiv>
+                    <Unicode>य, सर्वसपश्चंब सरद्दंव पिगयदरशनः ।।१६ ॥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>य, सर्वसपश्चंब सरद्दंव पिगयदरशनः ।।१६ ॥</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_4" custom="readingOrder {index:5;}">
+            <Coords points="400,2016 3514,2016 3514,2356 400,2356"/>
+            <TextLine id="tl_9" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="594,2172 3531,2175 3531,2054 2832,2006 2071,2083 594,2031"/>
+                <Baseline points="615,2171 701,2171 1149,2165 1253,2169 1621,2199 1815,2145 2043,2193 2183,2165 2919,2191 3087,2165 3513,2171"/>
+                <TextEquiv>
+                    <Unicode>ति प्रका म् नदियां ममु्र क प्ंचती है, इसी प्रका</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_10" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="382,2331 3519,2355 3461,2213 382,2233"/>
+                <Baseline points="401,2325 457,2325 825,2349 1199,2347 1417,2327 2743,2355 3479,2351 3499,2347"/>
+                <TextEquiv>
+                    <Unicode>म्षस्रन इन इन क यद्वा पनंँचते है प्र्णात् ष्टा प्रत्ाभ्या्ख क</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ति प्रका म् नदियां ममु्र क प्ंचती है, इसी प्रका
+म्षस्रन इन इन क यद्वा पनंँचते है प्र्णात् ष्टा प्रत्ाभ्या्ख क</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_5" custom="readingOrder {index:6;}">
+            <Coords points="406,2400 3504,2400 3504,2558 406,2558"/>
+            <TextLine id="tl_11" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="389,2513 3522,2532 3522,2422 3145,2387 389,2430"/>
+                <Baseline points="407,2539 641,2535 781,2511 893,2535 941,2527 1039,2521 1071,2535 1431,2529 1531,2529 1569,2529 1697,2529 1729,2549 2141,2529 2719,2529 2941,2529 3503,2533"/>
+                <TextEquiv>
+                    <Unicode>सम्य, फ्त्ा ैा्न कालमें, इन क प्रन्छे लोगों की परं दशा</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>सम्य, फ्त्ा ैा्न कालमें, इन क प्रन्छे लोगों की परं दशा</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_3_6" custom="readingOrder {index:7;}">
+            <Coords points="382,2566 3506,2566 3506,3280 382,3280"/>
+            <TextLine id="tl_12" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="663,2718 2779,2658 3243,2743 3525,2714 3525,2608 662,2569"/>
+                <Baseline points="681,2739 769,2739 837,2721 1399,2715 1541,2711 1563,2713 1825,2719 1961,2711 2115,2715 2135,2711 2325,2715 2641,2713 2949,2713 3505,2713"/>
+                <TextEquiv>
+                    <Unicode>है । अपरन्े कोगों क लिये उनके पा जाने की मनाई; की</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_13" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="597,2895 1531,2919 1763,2832 2497,2923 2937,2839 3027,2913 3270,2888 3270,2790 596,2742"/>
+                <Baseline points="615,2907 693,2907 905,2893 1117,2899 1297,2891 1707,2891 2091,2891 2615,2889 3249,2891"/>
+                <TextEquiv>
+                    <Unicode>है । मे परम श्रे् है, ये सख्वकषे प्र्णात् त्राहृण ्धिय</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_14" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="365,3080 3510,3065 3436,2927 365,2970"/>
+                <Baseline points="383,3071 437,3071 1619,3085 2149,3091 2727,3077 2961,3105 3203,3079 3491,3091"/>
+                <TextEquiv>
+                    <Unicode>शुद्ध- प् पतीःक्जोा केई उनका है, उस्का समान दुर्टि से देखने</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_15" primaryLanguage="English" custom="readingOrder {index:3;}">
+                <Coords points="364,3236 2225,3261 2225,3143 1947,3158 1762,3091 1491,3153 996,3159 883,3096 364,3150"/>
+                <Baseline points="383,3257 511,3257 965,3257 1165,3277 1815,3265 1907,3255 2035,3263 2207,3253"/>
+                <TextEquiv>
+                    <Unicode>याने ; ्ोंर सनी ्रियकर्गन है । १" ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>है । अपरन्े कोगों क लिये उनके पा जाने की मनाई; की
+है । मे परम श्रे् है, ये सख्वकषे प्र्णात् त्राहृण ्धिय
+शुद्ध- प् पतीःक्जोा केई उनका है, उस्का समान दुर्टि से देखने
+याने ; ्ोंर सनी ्रियकर्गन है । १" ।</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_4_1" custom="readingOrder {index:8;}">
+            <Coords points="688,3598 3242,3598 3242,4262 688,4262"/>
+            <TextLine id="tl_16" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="669,3763 3095,3782 3095,3637 1720,3579 668,3657"/>
+                <Baseline points="689,3779 789,3779 1073,3775 1303,3777 1991,3769 2077,3771 2689,3777 2947,3761 3075,3775"/>
+                <TextEquiv>
+                    <Unicode>स्म्ठ् च गाग्यीयैं बँयेंण ह्िपवानिब ।१७॥</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_17" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="667,4207 2983,4260 3262,4247 3265,4102 669,4101"/>
+                <Baseline points="689,4149 1419,4235 1729,4241 2105,4233 2707,4227 2807,4235 2985,4249 3241,4239"/>
+                <TextEquiv>
+                    <Unicode>काला्रिसद्शः क्रोषे प्षमणा प्थिवीरम ।।१ ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>स्म्ठ् च गाग्यीयैं बँयेंण ह्िपवानिब ।१७॥
+काला्रिसद्शः क्रोषे प्षमणा प्थिवीरम ।।१ ।</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_1" custom="readingOrder {index:9;}">
+            <Coords points="582,4342 3454,4342 3454,4534 582,4534"/>
+            <TextLine id="tl_18" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="562,4473 3471,4513 3471,4392 3334,4344 562,4347"/>
+                <Baseline points="583,4499 671,4499 1147,4497 1279,4503 1505,4497 1927,4489 2071,4489 2607,4491 2675,4493 3453,4513"/>
+                <TextEquiv>
+                    <Unicode>मे च गृुणों से युक्तं कोंशल्या क ्ानन् का बहढ़ाने बाल्े है ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>मे च गृुणों से युक्तं कोंशल्या क ्ानन् का बहढ़ाने बाल्े है ।</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_5_2" custom="readingOrder {index:10;}">
+            <Coords points="228,4522 3458,4522 3458,5056 228,5056"/>
+            <TextLine id="tl_19" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="351,4665 3476,4672 3476,4570 2754,4537 351,4532"/>
+                <Baseline points="371,4681 451,4681 815,4675 1061,4677 1365,4677 1507,4675 1837,4669 1989,4675 2021,4661 2197,4675 2629,4671 2803,4675 3077,4697 3457,4677"/>
+                <TextEquiv>
+                    <Unicode>ये गम्मीएता में चमुद् के मानि, मध्य में हिमालय की ््ह्, परयक्कम</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_20" primaryLanguage="English" custom="readingOrder {index:1;}">
+                <Coords points="351,4837 3473,4859 3390,4710 351,4711"/>
+                <Baseline points="371,4853 455,4853 539,4861 949,4849 1047,4849 1443,4853 1997,4841 2097,4853 2249,4849 3039,4849 3453,4863"/>
+                <TextEquiv>
+                    <Unicode>में वि्णु की म्, पियकदर्नत्य में चन्मा की प्, क्ोघ में काल्लाशि</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_21" primaryLanguage="English" custom="readingOrder {index:2;}">
+                <Coords points="209,4964 797,5065 3388,5053 3389,4928 2635,4869 209,4909"/>
+                <Baseline points="229,4975 277,4975 465,5035 827,5053 1083,5031 1341,5035 1625,5035 1749,5033 2115,5031 2247,5033 2671,5041 2783,5039 2983,5025 3075,5039 3269,5049 3369,5045"/>
+                <TextEquiv>
+                    <Unicode>'क मृग्ान, ग्रोीर मा करने में पृद्िी के समान है ॥ १ ॥१० </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>ये गम्मीएता में चमुद् के मानि, मध्य में हिमालय की ््ह्, परयक्कम
+में वि्णु की म्, पियकदर्नत्य में चन्मा की प्, क्ोघ में काल्लाशि
+'क मृग्ान, ग्रोीर मा करने में पृद्िी के समान है ॥ १ ॥१० </Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion type="paragraph" id="r_6_1" custom="readingOrder {index:11;}">
+            <Coords points="580,5214 2434,5214 2434,5554 580,5554"/>
+            <TextLine id="tl_22" primaryLanguage="English" custom="readingOrder {index:0;}">
+                <Coords points="561,5331 2454,5330 2453,5220 949,5253 807,5199 561,5264"/>
+                <Baseline points="581,5333 643,5333 803,5339 1143,5357 1751,5339 1905,5331 1965,5333 2019,5339 2085,5331 2301,5333 2433,5321"/>
+                <TextEquiv>
+                    <Unicode> ्धर्मंशा्वपुरशा् चमीमां्ाऽ्पुन्वीक्षिकी तथा ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="tl_23" primaryLanguage="German" custom="readingOrder {index:1;}">
+                <Coords points="713,5495 1192,5561 1797,5537 1910,5485 2397,5516 2397,5414 2248,5387 713,5425"/>
+                <Baseline points="731,5513 1437,5513 2285,5511 2377,5507"/>
+                <TextEquiv>
+                    <Unicode>च्ायंत्ान्युपाक्कनिशास्रज्ा; संप्यक्ते ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> ्धर्मंशा्वपुरशा् चमीमां्ाऽ्पुन्वीक्षिकी तथा ।
+च्ायंत्ान्युपाक्कनिशास्रज्ा; संप्यक्ते ।</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <SeparatorRegion id="r_7" custom="readingOrder {index:12;}">
+            <Coords points="320,5120 3480,5120 3480,5152 320,5152"/>
+        </SeparatorRegion>
+    </Page>
+</PcGts>

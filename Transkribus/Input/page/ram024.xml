@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=Devanagari_nagara_M1(htr_id=7884):SanskritIndexCards.dict:::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+</Creator>
+        <Created>2019-09-22T14:06:53.75+02:00</Created>
+        <LastChange>2019-09-22T14:27:43.250+02:00</LastChange>
+        <Comments>
+                Measurement unit: pixel
+                PrimaryLanguage: 
+                Producer: ABBYY FineReader Engine 11</Comments>
+        <TranskribusMetadata docId="204813" pageId="8640497" pageNr="22" tsid="15748917" status="IN_PROGRESS" userId="40797" imgUrl="https://files.transkribus.eu/Get?id=PMNHTIEMQVHPQVBIFASDJKRH&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=ADZSQBANMQTRMIKYMOHGQVAB" imageId="5510711"/>
+    </Metadata>
+    <Page imageFilename="ram024.png" imageWidth="3873" imageHeight="5848">
+        <PrintSpace>
+            <Coords points="0,0 3873,0 3873,5848 0,5848"/>
+        </PrintSpace>
+    </Page>
+</PcGts>

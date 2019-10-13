@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+    <Metadata>
+        <Creator>prov=University of Rostock/Institute of Mathematics/CITlab/Gundram Leifert/gundram.leifert@uni-rostock.de:name=SRH_Deva2(htr_id=16440)::::v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=de.uros.citlab.module.baseline2polygon.B2PSeamMultiOriented:v=2.4.2
+prov=University of Rostock/Institute of Mathematics/CITlab/Tobias Gruening/tobias.gruening@uni-rostock.de:name=/net_tf/LA73_249_0mod360.pb:de.uros.citlab.segmentation.CITlab_LA_ML:v=2.4.2
+TRP</Creator>
+        <Created>2019-09-03T15:55:25.201+02:00</Created>
+        <LastChange>2019-09-05T13:43:56.169+02:00</LastChange>
+        <TranskribusMetadata docId="204813" pageId="8640445" pageNr="12" tsid="15209580" status="IN_PROGRESS" userId="40797" imgUrl="https://files.transkribus.eu/Get?id=RGSZKRPNKLZZYXVUCVHODGQG&amp;fileType=view" xmlUrl="https://files.transkribus.eu/Get?id=SIREORVQDXFMAUCHARIPDBWA" imageId="5510659"/>
+    </Metadata>
+    <Page imageFilename="ram014.png" imageWidth="3873" imageHeight="5848">
+        <ReadingOrder>
+            <OrderedGroup id="ro_1570965634973" caption="Regions reading order">
+                <RegionRefIndexed index="0" regionRef="r1"/>
+                <RegionRefIndexed index="1" regionRef="r2"/>
+                <RegionRefIndexed index="2" regionRef="r3"/>
+                <RegionRefIndexed index="3" regionRef="r4"/>
+                <RegionRefIndexed index="4" regionRef="r5"/>
+            </OrderedGroup>
+        </ReadingOrder>
+        <TextRegion orientation="0.0" id="r1" custom="readingOrder {index:0;}">
+            <Coords points="517,1502 517,1664 573,1664 573,1502"/>
+            <TextLine id="r1l1" custom="readingOrder {index:0;}">
+                <Coords points="502,1594 517,1597 534,1620 546,1619 563,1642 581,1645 619,1470 577,1461 545,1479 528,1475"/>
+                <Baseline points="517,1602 545,1606 573,1614"/>
+                <TextEquiv>
+                    <Unicode>सोे</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>सोे</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r2" custom="readingOrder {index:1;}">
+            <Coords points="596,2093 596,2261 676,2261 676,2093"/>
+            <TextLine id="r2l1" custom="readingOrder {index:0;}">
+                <Coords points="572,2223 603,2227 621,2215 686,2230 696,2185 675,2181 648,2137 626,2135 609,2144 591,2140"/>
+                <Baseline points="596,2193 622,2198 649,2204 676,2211"/>
+                <TextEquiv>
+                    <Unicode> -</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode> -</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r3" custom="readingOrder {index:2;}">
+            <Coords points="650,3439 650,3595 674,3595 674,3439"/>
+            <TextLine id="r3l1" custom="readingOrder {index:0;}">
+                <Coords points="623,3582 638,3585 653,3611 671,3616 699,3504 682,3499 658,3506 643,3502"/>
+                <Baseline points="650,3539 674,3545"/>
+                <TextEquiv>
+                    <Unicode>मे</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>मे</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r4" custom="readingOrder {index:3;}">
+            <Coords points="621,485 621,5198 3333,5198 3333,485"/>
+            <TextLine id="r4l1" custom="readingOrder {index:0;}">
+                <Coords points="1762,538 1808,542 1825,556 1843,557 1856,546 1872,548 1876,493 1858,491 1844,475 1768,471"/>
+                <Baseline points="1778,531 1804,534 1831,538 1858,537"/>
+                <TextEquiv>
+                    <Unicode>यरा</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l2" custom="readingOrder {index:1;}">
+                <Coords points="606,874 3036,812 3070,710 603,789"/>
+                <Baseline points="621,864 742,861 864,857 986,854 1108,850 1230,847 1351,844 1473,840 1595,837 1717,833 1839,830 1960,827 2082,823 2204,819 2326,815 2448,810 2569,806 2691,802 2813,797 2935,792 3057,786"/>
+                <TextEquiv>
+                    <Unicode>ऋस्ठ परमित् का हुल्न उ्न दकर शिरन्ो को प्रथक करना । ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l3" custom="readingOrder {index:2;}">
+                <Coords points="2323,901 2396,904 2411,892 2436,887 2448,900 2481,904 2483,859 2397,868 2363,866 2355,857 2324,856"/>
+                <Baseline points="2337,895 2362,897 2388,899 2414,901 2440,901 2466,898"/>
+                <TextEquiv>
+                    <Unicode> चेिौदह वर  ७७६</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l4" custom="readingOrder {index:3;}">
+                <Coords points="1891,968 1918,971 1927,964 1946,961 1958,949 1985,955 2013,951 2012,906 1979,906 1967,918 1945,915 1939,909 1890,910"/>
+                <Baseline points="1906,946 1936,949 1966,948 1996,946"/>
+                <TextEquiv>
+                    <Unicode>अरा </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l5" custom="readingOrder {index:4;}">
+                <Coords points="1545,997 1940,1051 2289,977 2506,1028 2852,963 2960,1025 3057,990 3054,874 2297,940 2079,880 1947,956 1787,877 1700,943 1543,891"/>
+                <Baseline points="1560,1003 1634,1002 1708,1001 1782,1000 1856,999 1930,998 2004,996 2078,995 2152,994 2226,992 2300,991 2374,989 2448,988 2522,986 2596,985 2670,983 2744,981 2818,980 2892,979 2966,977 3041,976"/>
+                <TextEquiv>
+                    <Unicode>कर विन्ु्रोकर क लहना । वाहुत</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l6" custom="readingOrder {index:5;}">
+                <Coords points="626,1059 748,1063 787,1033 901,1065 930,1036 1098,1040 1124,1011 1247,1039 1309,978 1426,1064 1502,1061 1495,930 1119,957 1058,911 905,949 851,911 771,958 622,959"/>
+                <Baseline points="642,1040 684,1039 726,1038 768,1037 810,1035 852,1034 894,1032 936,1031 978,1029 1020,1027 1063,1024 1105,1022 1147,1020 1189,1018 1231,1016 1273,1013 1315,1011 1357,1009 1399,1006 1441,1004 1484,1003"/>
+                <TextEquiv>
+                    <Unicode>स्र शिरर्ी का य्ह</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l7" custom="readingOrder {index:6;}">
+                <Coords points="2138,1156 2156,1154 2164,1143 2168,1146 2183,1144 2161,987 2142,990 2135,1000 2117,1003"/>
+                <Baseline points="2146,1111 2161,1109"/>
+                <TextEquiv>
+                    <Unicode>१।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l8" custom="readingOrder {index:7;}">
+                <Coords points="2332,1120 2359,1114 2362,1117 2365,1113 2368,1116 2383,1112 2377,1083 2359,1086 2352,1082 2347,1086 2326,1090"/>
+                <Baseline points="2346,1113 2366,1109"/>
+                <TextEquiv>
+                    <Unicode>अनहावय </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l9" custom="readingOrder {index:8;}">
+                <Coords points="1843,1123 1892,1122 1920,1142 1947,1142 1980,1119 2011,1119 2020,1109 2038,1118 2117,1122 2116,1076 2022,1082 2001,1095 1842,1086"/>
+                <Baseline points="1858,1119 1885,1120 1912,1121 1939,1121 1966,1120 1993,1119 2020,1118 2047,1117 2074,1116 2101,1114"/>
+                <TextEquiv>
+                    <Unicode>आकन्रृुष्ेण रामायण</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l10" custom="readingOrder {index:9;}">
+                <Coords points="627,1211 2530,1157 2623,1219 3061,1169 3086,1053 625,1129"/>
+                <Baseline points="642,1204 763,1201 884,1199 1006,1196 1127,1193 1249,1191 1370,1188 1492,1185 1613,1183 1735,1180 1856,1178 1977,1175 2099,1172 2220,1170 2342,1167 2463,1164 2585,1161 2706,1158 2828,1156 2949,1153 3071,1149"/>
+                <TextEquiv>
+                    <Unicode>का परशोिध्य के परिे पजंि  कर- उके सर्मिी का</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l11" custom="readingOrder {index:10;}">
+                <Coords points="695,1338 716,1335 728,1339 746,1357 764,1348 786,1349 795,1340 816,1340 817,1301 695,1298"/>
+                <Baseline points="709,1328 740,1330 771,1329 802,1331"/>
+                <TextEquiv>
+                    <Unicode> अरुा</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l12" custom="readingOrder {index:11;}">
+                <Coords points="870,1335 906,1339 960,1389 1012,1387 1027,1372 1051,1385 1085,1373 1164,1387 1192,1361 1228,1389 1252,1389 1255,1283 1231,1276 1197,1294 1151,1283 871,1287"/>
+                <Baseline points="886,1354 911,1359 936,1364 961,1367 986,1369 1011,1369 1036,1369 1062,1368 1087,1367 1112,1366 1137,1366 1162,1366 1187,1367 1212,1370 1238,1373"/>
+                <TextEquiv>
+                    <Unicode> करना ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l13" custom="readingOrder {index:12;}">
+                <Coords points="650,1390 735,1393 747,1405 808,1411 854,1378 903,1387 902,1307 875,1295 835,1298 787,1347 759,1329 717,1335 704,1347 689,1332 650,1335"/>
+                <Baseline points="665,1374 692,1377 720,1380 748,1381 776,1381 804,1380 832,1379 860,1377 888,1374"/>
+                <TextEquiv>
+                    <Unicode>उक-क किः</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l14" custom="readingOrder {index:13;}">
+                <Coords points="2811,1515 2866,1543 2884,1531 2905,1553 2991,1546 3056,1608 3170,1540 3251,1597 3255,1442 3185,1443 3098,1493 3038,1449 2999,1448 2933,1511 2867,1455 2813,1457"/>
+                <Baseline points="2827,1548 2852,1548 2878,1548 2903,1548 2929,1549 2954,1551 2980,1552 3005,1552 3031,1554 3057,1555 3082,1556 3108,1556 3133,1556 3159,1556 3184,1555 3210,1553 3236,1551"/>
+                <TextEquiv>
+                    <Unicode>के-.है१ र९े४</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l15" custom="readingOrder {index:14;}">
+                <Coords points="2723,1574 2827,1577 2850,1603 2877,1607 2881,1515 2819,1525 2799,1503 2772,1490 2763,1490 2744,1507 2726,1507"/>
+                <Baseline points="2738,1559 2763,1560 2788,1561 2813,1562 2838,1563 2864,1563"/>
+                <TextEquiv>
+                    <Unicode>खो सू</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l16" custom="readingOrder {index:15;}">
+                <Coords points="643,1628 738,1639 758,1616 869,1639 971,1603 1015,1632 1066,1626 1104,1585 1155,1628 1221,1600 1283,1619 1273,1424 1152,1503 1043,1459 987,1499 868,1504 815,1476 771,1509 637,1516"/>
+                <Baseline points="658,1622 688,1621 718,1620 749,1618 779,1617 810,1615 840,1614 870,1612 901,1610 931,1608 962,1607 992,1605 1022,1604 1053,1602 1083,1600 1114,1599 1144,1598 1174,1597 1205,1597 1235,1596 1266,1596"/>
+                <TextEquiv>
+                    <Unicode>बार्ोीकीं स्ी</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l17" custom="readingOrder {index:16;}">
+                <Coords points="2890,1711 2932,1715 2969,1710 2990,1729 3008,1712 3048,1719 3049,1685 2985,1680 2964,1686 2921,1685 2915,1678 2909,1684 2890,1684"/>
+                <Baseline points="2905,1706 2930,1707 2956,1708 2981,1709 3007,1709 3033,1710"/>
+                <TextEquiv>
+                    <Unicode>प्रमाराज््मीकरान्यं</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l18" custom="readingOrder {index:17;}">
+                <Coords points="671,1803 3099,1780 2677,1644 2175,1723 1495,1663 670,1717"/>
+                <Baseline points="685,1794 811,1791 937,1788 1063,1785 1190,1783 1316,1781 1442,1779 1568,1777 1695,1776 1821,1775 1947,1773 2073,1772 2200,1771 2326,1770 2452,1770 2578,1769 2705,1768 2831,1768 2957,1768 3084,1768"/>
+                <TextEquiv>
+                    <Unicode>अ्मञि्य र पज्ञा जी का परहुमाै । ाकाकडो में रहीाकाय</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l19" custom="readingOrder {index:18;}">
+                <Coords points="707,1978 2611,1956 2610,1853 2254,1874 2150,1814 2004,1867 706,1847"/>
+                <Baseline points="721,1960 814,1956 908,1954 1002,1951 1096,1949 1189,1947 1283,1946 1377,1944 1471,1943 1564,1942 1658,1942 1752,1941 1846,1941 1939,1941 2033,1941 2127,1941 2221,1941 2314,1941 2408,1941 2502,1942 2596,1942"/>
+                <TextEquiv>
+                    <Unicode>से प्रचित्य का उ्के किसी का वर्य करना ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l20" custom="readingOrder {index:19;}">
+                <Coords points="2735,2146 2790,2178 2853,2158 2906,2215 2993,2158 3027,2160 3081,2211 3119,2195 3181,2213 3218,2182 3283,2209 3294,2072 3253,2050 3183,2075 3149,2051 3089,2071 3026,2056 2954,2115 2903,2062 2861,2058 2812,2100 2739,2097"/>
+                <Baseline points="2749,2163 2775,2163 2801,2163 2827,2164 2853,2164 2879,2165 2905,2167 2931,2169 2957,2172 2983,2174 3009,2176 3035,2179 3061,2182 3087,2184 3113,2187 3139,2189 3165,2192 3191,2194 3217,2196 3243,2199 3269,2200"/>
+                <TextEquiv>
+                    <Unicode>- ९े-ी  ।९े</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l21" custom="readingOrder {index:20;}">
+                <Coords points="961,2216 1040,2212 1078,2173 1126,2214 1171,2208 1198,2188 1232,2214 1269,2206 1259,2017 1207,2020 1149,2081 1079,2088 1029,2048 954,2079"/>
+                <Baseline points="976,2190 1001,2192 1026,2193 1051,2192 1076,2192 1101,2190 1126,2187 1151,2185 1176,2183 1201,2182 1226,2181 1251,2181"/>
+                <TextEquiv>
+                    <Unicode>ोीं स्ग</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l22" custom="readingOrder {index:21;}">
+                <Coords points="845,2197 860,2201 869,2213 890,2218 907,2212 925,2217 953,2098 933,2093 920,2093 913,2098 870,2094"/>
+                <Baseline points="863,2184 888,2193 913,2196"/>
+                <TextEquiv>
+                    <Unicode>या</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l23" custom="readingOrder {index:22;}">
+                <Coords points="663,2226 690,2220 718,2225 732,2210 775,2215 793,2208 833,2223 830,2058 775,2060 742,2094 660,2101"/>
+                <Baseline points="676,2197 704,2202 732,2202 760,2200 788,2198 816,2198"/>
+                <TextEquiv>
+                    <Unicode>ास्ोी</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l24" custom="readingOrder {index:23;}">
+                <Coords points="703,2404 3158,2405 3119,2319 2829,2277 2497,2350 703,2325"/>
+                <Baseline points="718,2406 839,2404 960,2403 1081,2402 1202,2401 1324,2400 1445,2399 1566,2398 1687,2398 1808,2397 1930,2397 2051,2397 2172,2397 2293,2398 2414,2398 2536,2399 2657,2401 2778,2402 2899,2404 3020,2406 3142,2409"/>
+                <TextEquiv>
+                    <Unicode>आजञाके दि पर्ड़ को पर कर यज्र तर यर वज्ञिनञ कर</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l25" custom="readingOrder {index:24;}">
+                <Coords points="778,2531 799,2535 810,2527 818,2535 821,2532 842,2536 865,2417 850,2414 840,2403 827,2406 803,2399"/>
+                <Baseline points="802,2487 834,2493"/>
+                <TextEquiv>
+                    <Unicode>मे</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l26" custom="readingOrder {index:25;}">
+                <Coords points="722,2572 1809,2625 1931,2552 2156,2613 2461,2547 2964,2621 3122,2596 3122,2469 722,2499"/>
+                <Baseline points="737,2574 855,2575 973,2576 1092,2576 1210,2576 1329,2576 1447,2575 1566,2574 1684,2574 1803,2573 1921,2572 2039,2572 2158,2571 2276,2571 2395,2572 2513,2573 2632,2574 2750,2576 2869,2579 2987,2583 3106,2587"/>
+                <TextEquiv>
+                    <Unicode>कनिवाद्े क वि्याप्याद्णो को दोना । इरा्क्ड भी</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l27" custom="readingOrder {index:26;}">
+                <Coords points="723,2658 738,2660 756,2671 765,2668 819,2676 822,2649 807,2648 775,2626 726,2622"/>
+                <Baseline points="738,2663 771,2665 804,2669"/>
+                <TextEquiv>
+                    <Unicode> अनदा </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l28" custom="readingOrder {index:27;}">
+                <Coords points="894,2712 909,2713 931,2692 989,2693 998,2700 1004,2694 1038,2691 1065,2695 1067,2637 1048,2637 1021,2621 1000,2620 963,2656 944,2656 921,2631 896,2630"/>
+                <Baseline points="910,2691 938,2691 966,2691 994,2691 1022,2692 1050,2696"/>
+                <TextEquiv>
+                    <Unicode>ैः--ी</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l29" custom="readingOrder {index:28;}">
+                <Coords points="723,2735 914,2805 1095,2731 3132,2770 3133,2667 2896,2630 2749,2702 2086,2614 724,2665"/>
+                <Baseline points="738,2737 857,2735 976,2734 1095,2733 1214,2733 1333,2733 1452,2733 1571,2733 1690,2734 1809,2735 1928,2737 2047,2739 2166,2741 2285,2743 2404,2745 2523,2748 2642,2750 2761,2753 2880,2757 2999,2760 3118,2763"/>
+                <TextEquiv>
+                    <Unicode>क पुईसेा पर वि्ाशित् जी क वि्यान्राद्ों का अिदहाल्यम</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l30" custom="readingOrder {index:29;}">
+                <Coords points="857,2925 3084,2925 3085,2843 2958,2792 859,2821"/>
+                <Baseline points="873,2910 982,2906 1092,2902 1202,2899 1312,2898 1422,2897 1531,2897 1641,2898 1751,2900 1861,2902 1971,2904 2080,2906 2190,2909 2300,2911 2410,2914 2520,2916 2629,2918 2739,2919 2849,2920 2959,2920 3069,2920"/>
+                <TextEquiv>
+                    <Unicode>कनता । दिन ओर संतरहिों के पु्गी का बुलचाना अरलीिे</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l31" custom="readingOrder {index:30;}">
+                <Coords points="1878,3045 1924,3038 1916,2981 1871,2987"/>
+                <Baseline points="1892,3034 1908,3032"/>
+                <TextEquiv>
+                    <Unicode>य-</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l32" custom="readingOrder {index:31;}">
+                <Coords points="2878,3041 2893,3041 2896,3038 2905,3039 2909,3036 2915,3036 2921,3040 2936,3041 2938,3004 2907,3002 2898,3002 2895,3005 2880,3004"/>
+                <Baseline points="2894,3034 2922,3035"/>
+                <TextEquiv>
+                    <Unicode>कीः सरथा</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l33" custom="readingOrder {index:32;}">
+                <Coords points="747,3073 2897,3120 3144,3111 3146,3005 748,2991"/>
+                <Baseline points="761,3076 879,3071 997,3068 1116,3066 1234,3065 1353,3064 1471,3065 1589,3067 1708,3069 1826,3072 1945,3074 2063,3078 2181,3081 2300,3084 2418,3087 2537,3089 2655,3092 2773,3094 2892,3094 3010,3095 3129,3094"/>
+                <TextEquiv>
+                    <Unicode>अब्नुरम पतय की कथा । इस्ुू के विखीे पुटर दुलमाद्श को</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l34" custom="readingOrder {index:33;}">
+                <Coords points="772,3267 1613,3200 1792,3275 2052,3203 2934,3303 2999,3240 3166,3285 3168,3172 774,3121"/>
+                <Baseline points="788,3248 906,3242 1024,3238 1142,3235 1260,3233 1378,3232 1496,3231 1614,3232 1732,3233 1850,3235 1969,3237 2087,3240 2205,3243 2323,3246 2441,3250 2559,3253 2677,3256 2795,3260 2913,3263 3031,3266 3150,3269"/>
+                <TextEquiv>
+                    <Unicode>शिर्रार्ी क करने क्ञ मे ना । आालक्वराहि की</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l35" custom="readingOrder {index:34;}">
+                <Coords points="1123,3404 1166,3420 1254,3413 1312,3433 1349,3412 1373,3428 1428,3414 1495,3425 1497,3318 1464,3315 1436,3338 1421,3323 1393,3325 1352,3287 1321,3287 1275,3322 1125,3322"/>
+                <Baseline points="1138,3401 1164,3404 1190,3406 1216,3407 1242,3408 1269,3408 1295,3408 1321,3407 1347,3407 1374,3407 1400,3409 1426,3410 1452,3413 1479,3416"/>
+                <TextEquiv>
+                    <Unicode>सवाि ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l36" custom="readingOrder {index:35;}">
+                <Coords points="1016,3410 1040,3415 1051,3424 1080,3431 1105,3321 1090,3317 1087,3320 1082,3312 1076,3311 1067,3296 1044,3288"/>
+                <Baseline points="1033,3406 1069,3414"/>
+                <TextEquiv>
+                    <Unicode>से</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l37" custom="readingOrder {index:36;}">
+                <Coords points="758,3405 782,3410 810,3435 844,3432 893,3462 923,3465 937,3332 766,3326"/>
+                <Baseline points="774,3398 801,3413 829,3417 857,3415 885,3416 913,3423"/>
+                <TextEquiv>
+                    <Unicode>ययहु</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l38" custom="readingOrder {index:37;}">
+                <Coords points="1315,3628 1348,3646 1366,3663 1386,3670 1438,3573 1425,3566 1405,3500 1389,3491"/>
+                <Baseline points="1334,3627 1362,3630 1378,3653"/>
+                <TextEquiv>
+                    <Unicode>ी</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l39" custom="readingOrder {index:38;}">
+                <Coords points="668,3660 720,3661 757,3631 793,3666 1064,3660 1086,3639 1134,3664 1220,3624 1265,3664 1320,3660 1323,3538 1225,3542 1165,3494 1088,3538 1000,3546 940,3501 872,3546 713,3545 671,3523"/>
+                <Baseline points="684,3623 715,3626 746,3629 777,3632 808,3634 839,3636 870,3638 901,3638 932,3639 963,3640 995,3641 1026,3641 1057,3641 1088,3641 1119,3641 1150,3641 1181,3641 1212,3641 1243,3641 1274,3641 1306,3642"/>
+                <TextEquiv>
+                    <Unicode>देवा्ोृिणीं </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l40" custom="readingOrder {index:39;}">
+                <Coords points="2906,3635 2989,3697 3075,3638 3144,3692 3168,3695 3212,3665 3246,3689 3282,3672 3345,3706 3363,3583 3292,3544 3251,3572 3207,3556 3165,3569 3098,3543 3023,3594 2981,3541 2920,3541"/>
+                <Baseline points="2920,3639 2945,3636 2971,3634 2997,3633 3023,3634 3049,3636 3074,3640 3100,3643 3126,3648 3152,3654 3178,3660 3203,3665 3229,3670 3255,3675 3281,3681 3307,3685 3333,3689"/>
+                <TextEquiv>
+                    <Unicode>कः- ह)</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l41" custom="readingOrder {index:40;}">
+                <Coords points="2756,3648 2782,3656 2794,3679 2823,3689 2865,3668 2880,3673 2919,3558 2897,3554 2894,3546 2868,3537 2823,3554 2793,3538"/>
+                <Baseline points="2776,3641 2805,3649 2834,3661 2864,3669"/>
+                <TextEquiv>
+                    <Unicode>े ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l42" custom="readingOrder {index:41;}">
+                <Coords points="2213,3814 2286,3809 2317,3834 2341,3825 2377,3831 2396,3813 2490,3820 2491,3762 2214,3766"/>
+                <Baseline points="2227,3812 2254,3812 2282,3812 2309,3812 2337,3811 2364,3811 2392,3811 2419,3811 2447,3814 2475,3817"/>
+                <TextEquiv>
+                    <Unicode>आरमवा्य </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l43" custom="readingOrder {index:42;}">
+                <Coords points="777,3856 3159,3883 3143,3758 2569,3820 779,3746"/>
+                <Baseline points="791,3853 908,3850 1026,3849 1144,3848 1261,3847 1379,3848 1497,3848 1614,3849 1732,3851 1850,3853 1968,3855 2085,3857 2203,3860 2321,3862 2438,3865 2556,3867 2674,3870 2791,3873 2909,3875 3027,3877 3145,3878"/>
+                <TextEquiv>
+                    <Unicode>मि्ि का पुखनी हे परञोकन से गरकारा पु्न के लिये</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l44" custom="readingOrder {index:43;}">
+                <Coords points="2896,4003 2927,4000 2936,3996 2975,3996 2970,3929 2936,3932 2914,3958 2893,3960"/>
+                <Baseline points="2911,3997 2936,3995 2961,3993"/>
+                <TextEquiv>
+                    <Unicode>८</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l45" custom="readingOrder {index:44;}">
+                <Coords points="797,4013 3001,4089 3185,4077 3187,3967 798,3940"/>
+                <Baseline points="813,4008 930,4010 1048,4011 1166,4012 1284,4014 1402,4015 1520,4017 1637,4019 1755,4020 1873,4023 1991,4024 2109,4027 2227,4029 2345,4032 2462,4034 2580,4038 2698,4041 2816,4044 2934,4047 3052,4051 3170,4055"/>
+                <TextEquiv>
+                    <Unicode>आाह्वा करना । शरमितक का हिष्ये के नि्ार सना ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l46" custom="readingOrder {index:45;}">
+                <Coords points="1715,4138 1730,4135 1738,4125 1745,4129 1760,4127 1753,4094 1708,4102"/>
+                <Baseline points="1730,4140 1746,4137"/>
+                <TextEquiv>
+                    <Unicode>काीा</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l47" custom="readingOrder {index:46;}">
+                <Coords points="1845,4155 1882,4159 1897,4144 1931,4147 1940,4141 1961,4141 1970,4132 1986,4132 1986,4105 1934,4104 1928,4110 1916,4110 1846,4104"/>
+                <Baseline points="1862,4142 1889,4141 1916,4142 1943,4142 1970,4142"/>
+                <TextEquiv>
+                    <Unicode>असनवा </Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l48" custom="readingOrder {index:47;}">
+                <Coords points="2910,4171 2932,4168 2989,4178 3029,4166 3075,4170 3087,4180 3093,4174 3120,4177 3121,4134 3051,4133 3039,4142 3002,4142 2993,4132 2960,4138 2911,4134"/>
+                <Baseline points="2926,4165 2951,4167 2977,4168 3003,4168 3028,4168 3054,4168 3080,4168 3106,4171"/>
+                <TextEquiv>
+                    <Unicode>म वष्येण रामायण</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l49" custom="readingOrder {index:48;}">
+                <Coords points="3136,4194 3151,4196 3158,4191 3163,4198 3181,4200 3198,4076 3180,4074 3174,4070 3171,4073 3153,4070"/>
+                <Baseline points="3154,4174 3170,4176"/>
+                <TextEquiv>
+                    <Unicode>या</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l50" custom="readingOrder {index:49;}">
+                <Coords points="798,4195 3204,4247 3202,4183 2693,4081 1984,4151 801,4067"/>
+                <Baseline points="815,4181 933,4180 1052,4180 1171,4180 1290,4181 1408,4182 1527,4184 1646,4186 1765,4188 1883,4191 2002,4194 2121,4197 2240,4200 2358,4204 2477,4207 2596,4211 2715,4214 2833,4218 2952,4221 3071,4224 3190,4227"/>
+                <TextEquiv>
+                    <Unicode>मित्े की लजिोा कर्े हुई उर् का हिडे के परडं मे दु्ञथ कर</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l51" custom="readingOrder {index:50;}">
+                <Coords points="1743,4315 1774,4316 1780,4310 1801,4322 1823,4304 1838,4320 1868,4311 1887,4314 1911,4339 1923,4330 1944,4330 1945,4282 1881,4274 1796,4276 1763,4248 1744,4248"/>
+                <Baseline points="1760,4305 1788,4309 1816,4311 1844,4311 1872,4311 1900,4310 1928,4309"/>
+                <TextEquiv>
+                    <Unicode>्य अामवाश्ण</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l52" custom="readingOrder {index:51;}">
+                <Coords points="1946,4315 1986,4319 2007,4341 2077,4312 2092,4324 2135,4313 2159,4326 2172,4314 2272,4322 2273,4255 2252,4254 2224,4281 2063,4278 2014,4252 1947,4272"/>
+                <Baseline points="1960,4308 1987,4312 2014,4314 2041,4315 2068,4316 2095,4316 2122,4316 2149,4316 2176,4316 2203,4317 2230,4317 2257,4318"/>
+                <TextEquiv>
+                    <Unicode>्य पुमैेि अनवकय प्काक्य ी</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l53" custom="readingOrder {index:52;}">
+                <Coords points="2324,4308 2340,4309 2351,4322 2385,4320 2391,4327 2403,4321 2415,4328 2457,4330 2460,4282 2396,4278 2374,4283 2326,4281"/>
+                <Baseline points="2340,4317 2366,4320 2392,4321 2418,4322 2444,4323"/>
+                <TextEquiv>
+                    <Unicode>`नव्यकः- मं</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l54" custom="readingOrder {index:53;}">
+                <Coords points="2464,4348 2482,4349 2514,4323 2549,4353 2594,4355 2626,4329 2641,4330 2644,4290 2625,4290 2612,4301 2466,4294"/>
+                <Baseline points="2479,4326 2508,4325 2538,4326 2567,4327 2597,4330 2627,4333"/>
+                <TextEquiv>
+                    <Unicode>से रहानया</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l55" custom="readingOrder {index:54;}">
+                <Coords points="2652,4335 2701,4338 2703,4311 2655,4307"/>
+                <Baseline points="2668,4331 2686,4332"/>
+                <TextEquiv>
+                    <Unicode>रनाल्य</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l56" custom="readingOrder {index:55;}">
+                <Coords points="815,4350 2909,4417 2912,4308 817,4265"/>
+                <Baseline points="829,4339 932,4341 1035,4344 1138,4346 1242,4349 1345,4351 1448,4354 1551,4357 1655,4360 1758,4363 1861,4366 1964,4369 2068,4371 2171,4375 2274,4378 2377,4380 2481,4383 2584,4387 2687,4389 2790,4393 2894,4395"/>
+                <TextEquiv>
+                    <Unicode>तरन्िस आान्मातण के ज्ञें क दुूोनके पुलपने कर के ल्ना ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l57" custom="readingOrder {index:56;}">
+                <Coords points="722,4597 762,4581 853,4601 874,4579 978,4605 1088,4579 1118,4603 1173,4599 1215,4558 1259,4600 1292,4600 1362,4574 1360,4473 1223,4479 1164,4434 1055,4479 994,4480 948,4444 885,4473 760,4475 720,4451"/>
+                <Baseline points="738,4576 768,4577 798,4577 829,4577 859,4577 890,4577 920,4577 950,4577 981,4576 1011,4576 1042,4575 1072,4574 1102,4573 1133,4573 1163,4572 1194,4571 1224,4570 1254,4570 1285,4569 1315,4568 1346,4567"/>
+                <TextEquiv>
+                    <Unicode>मिार्ोदकी आथ</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l58" custom="readingOrder {index:57;}">
+                <Coords points="3011,4613 3111,4621 3165,4677 3186,4677 3231,4643 3254,4653 3269,4544 3202,4538 3186,4548 3153,4519 3116,4517 3047,4569 3017,4565"/>
+                <Baseline points="3026,4605 3053,4609 3080,4613 3107,4616 3134,4620 3161,4623 3188,4627 3215,4631 3242,4636"/>
+                <TextEquiv>
+                    <Unicode>- े</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l59" custom="readingOrder {index:58;}">
+                <Coords points="2915,4656 2933,4659 2956,4647 2983,4670 3008,4674 3028,4544 3013,4542 2987,4513 2972,4511 2952,4520 2937,4518"/>
+                <Baseline points="2930,4649 2962,4654 2994,4659"/>
+                <TextEquiv>
+                    <Unicode>है</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l60" custom="readingOrder {index:59;}">
+                <Coords points="822,4785 871,4803 907,4796 978,4831 1014,4827 1056,4784 1078,4798 1154,4800 1217,4750 1216,4704 1167,4705 1124,4673 1076,4704 1030,4711 820,4700"/>
+                <Baseline points="835,4771 861,4776 887,4780 913,4782 939,4783 966,4783 992,4782 1018,4781 1044,4778 1070,4776 1097,4775 1123,4773 1149,4773 1175,4773 1202,4774"/>
+                <TextEquiv>
+                    <Unicode>चाह्ड की</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l61" custom="readingOrder {index:60;}">
+                <Coords points="1278,4800 2176,4830 2239,4781 2404,4849 2604,4805 2860,4892 3193,4884 3188,4771 1282,4699"/>
+                <Baseline points="1293,4785 1387,4789 1481,4793 1575,4797 1669,4800 1764,4803 1858,4805 1952,4808 2046,4811 2140,4814 2235,4816 2329,4819 2423,4823 2517,4827 2611,4831 2706,4837 2800,4842 2894,4849 2988,4856 3082,4864 3177,4873"/>
+                <TextEquiv>
+                    <Unicode>्रयाहितं । वि्ाजा की परवाि का बुलवाना ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l62" custom="readingOrder {index:61;}">
+                <Coords points="831,4932 3174,5051 3197,4936 834,4862"/>
+                <Baseline points="847,4937 963,4942 1080,4946 1196,4950 1313,4954 1429,4958 1546,4962 1662,4965 1779,4969 1895,4973 2012,4977 2129,4982 2245,4986 2362,4990 2478,4995 2595,5001 2711,5007 2828,5012 2944,5019 3061,5027 3178,5035"/>
+                <TextEquiv>
+                    <Unicode>तथना सुसने की पुलापुरहीेय र्वा्यों कोी आमवाव्वाणी ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r4l63" custom="readingOrder {index:62;}">
+                <Coords points="820,5083 1125,5156 1368,5104 2584,5190 2567,5086 1958,5066 1868,5016 822,5031"/>
+                <Baseline points="833,5106 919,5108 1006,5111 1093,5113 1180,5116 1267,5118 1354,5121 1440,5123 1527,5126 1614,5129 1701,5132 1788,5135 1875,5139 1962,5143 2048,5146 2135,5151 2222,5154 2309,5159 2396,5164 2483,5170 2570,5175"/>
+                <TextEquiv>
+                    <Unicode>काना सुनके ओर वि्मि् का भमा ।</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>यरा
+ऋस्ठ परमित् का हुल्न उ्न दकर शिरन्ो को प्रथक करना । ।
+ चेिौदह वर  ७७६
+अरा 
+कर विन्ु्रोकर क लहना । वाहुत
+स्र शिरर्ी का य्ह
+१।
+अनहावय 
+आकन्रृुष्ेण रामायण
+का परशोिध्य के परिे पजंि  कर- उके सर्मिी का
+ अरुा
+ करना ।
+उक-क किः
+के-.है१ र९े४
+खो सू
+बार्ोीकीं स्ी
+प्रमाराज््मीकरान्यं
+अ्मञि्य र पज्ञा जी का परहुमाै । ाकाकडो में रहीाकाय
+से प्रचित्य का उ्के किसी का वर्य करना ।
+- ९े-ी  ।९े
+ोीं स्ग
+या
+ास्ोी
+आजञाके दि पर्ड़ को पर कर यज्र तर यर वज्ञिनञ कर
+मे
+कनिवाद्े क वि्याप्याद्णो को दोना । इरा्क्ड भी
+ अनदा 
+ैः--ी
+क पुईसेा पर वि्ाशित् जी क वि्यान्राद्ों का अिदहाल्यम
+कनता । दिन ओर संतरहिों के पु्गी का बुलचाना अरलीिे
+य-
+कीः सरथा
+अब्नुरम पतय की कथा । इस्ुू के विखीे पुटर दुलमाद्श को
+शिर्रार्ी क करने क्ञ मे ना । आालक्वराहि की
+सवाि ।
+से
+ययहु
+ी
+देवा्ोृिणीं 
+कः- ह)
+े ।
+आरमवा्य 
+मि्ि का पुखनी हे परञोकन से गरकारा पु्न के लिये
+८
+आाह्वा करना । शरमितक का हिष्ये के नि्ार सना ।
+काीा
+असनवा 
+म वष्येण रामायण
+या
+मित्े की लजिोा कर्े हुई उर् का हिडे के परडं मे दु्ञथ कर
+्य अामवाश्ण
+्य पुमैेि अनवकय प्काक्य ी
+`नव्यकः- मं
+से रहानया
+रनाल्य
+तरन्िस आान्मातण के ज्ञें क दुूोनके पुलपने कर के ल्ना ।
+मिार्ोदकी आथ
+- े
+है
+चाह्ड की
+्रयाहितं । वि्ाजा की परवाि का बुलवाना ।
+तथना सुसने की पुलापुरहीेय र्वा्यों कोी आमवाव्वाणी ।
+काना सुनके ओर वि्मि् का भमा ।</Unicode>
+            </TextEquiv>
+        </TextRegion>
+        <TextRegion orientation="0.0" id="r5" custom="readingOrder {index:4;}">
+            <Coords points="3286,4608 3286,4678 3365,4678 3365,4608"/>
+            <TextLine id="r5l1" custom="readingOrder {index:0;}">
+                <Coords points="3273,4620 3288,4623 3295,4634 3316,4638 3338,4524 3323,4521 3308,4531 3290,4528"/>
+                <Baseline points="3286,4628 3302,4631"/>
+                <TextEquiv>
+                    <Unicode></Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextLine id="r5l2" custom="readingOrder {index:1;}">
+                <Coords points="3280,4667 3323,4668 3338,4684 3380,4685 3383,4597 3368,4596 3341,4568 3317,4567 3298,4582 3283,4582"/>
+                <Baseline points="3297,4664 3331,4668 3365,4666"/>
+                <TextEquiv>
+                    <Unicode>के</Unicode>
+                </TextEquiv>
+            </TextLine>
+            <TextEquiv>
+                <Unicode>
+के</Unicode>
+            </TextEquiv>
+        </TextRegion>
+    </Page>
+</PcGts>
