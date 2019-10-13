@@ -1,4 +1,12 @@
-# Tesseract
+# Table of Contents
+1. [Tesseract](#Tesseract)
+2. [Training with Tesseract 4.00](#Training)
+    1. [Running shell script for fine tuning](#finetuning)
+    2. [Running shell script for top layer removal](#toplayer)
+    3. [Training from scratch](#scratch)
+    
+
+## Tesseract <a name="Tesseract"></a>
 -	It is an open source Optical Character Recognition(OCR) engine initially developed by HP and then research on it is carried out by Google from 2006.
 -	Refer this paper by Ray Smith, Google Inc. 
 https://github.com/tesseract-ocr/docs/blob/master/tesseracticdar2007.pdf
@@ -9,8 +17,9 @@ https://github.com/tesseract-ocr/tesseract/wiki/TrainingTesseract-4.00
     -   Linux and  Mac OS X: https://github.com/tesseract-ocr/tesseract
     -   Windows: https://github.com/UB-Mannheim/tesseract
 
-## Training with Tesseract 4.00
+## Training with Tesseract 4.00 <a name="Training"></a>
 
+## Workflow
 ![](tesseract_workflow.png?raw=true) 
 
 https://www.endpoint.com/blog/2018/07/09/training-tesseract-models-from-scratch
@@ -59,7 +68,7 @@ There are multiple options for training:
 
 -   Retrain from scratch. This is a daunting task, unless you have a very representative and sufficiently large training set for your problem. If not, you are likely to end up with an over-fitted network that does really well on the training data, but not on the actual data.
 
-## 1. Running shell script for fine tuning
+## 1. Running shell script for fine tuning <a name="finetuning"></a>
 NKP training
 https://github.com/Shreeshrii/tessdata_sanskrit
 https://groups.google.com/forum/#!msg/tesseract-ocr/NNZ7GOBLB_8/IMqn2IgzAwAJ
@@ -69,7 +78,7 @@ https://medium.com/datadriveninvestor/review-for-tesseract-and-kraken-ocr-for-te
 cp script /usr/local/share/tessdata/
 sh ram.sh 2>&1 | tee 31_08_train.log
 
-##  2.  Running shell script for top layer removal
+##  2.  Running shell script for top layer removal <a name="toplayer"></a>
 https://github.com/tesseract-ocr/tesseract/issues/1382
 -   use tesstrain_replacelayer.sh.txt
  
@@ -79,11 +88,11 @@ https://github.com/tesseract-ocr/tessdata/blob/master/eng.traineddata
 
 Add radical-stroke.txt to the langdata folder
 
-##  3. Training from scratch
+##  3. Training from scratch <a name="scratch"></a>
 https://github.com/Shreeshrii/tess4training/blob/master/2-scratch.sh
 https://www.endpoint.com/blog/2018/07/09/training-tesseract-models-from-scratch
 
-### Generating the unicharset file
+### Generating the unicharset file <a name="unicharset"></a>
 You’ll need to install the unicode-scripts and unicode-categories gems first. The usage is as it stands in the source code:
 sudo gem install unicode-scripts
 sudo gem install unicode-categories
