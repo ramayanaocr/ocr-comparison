@@ -1,4 +1,4 @@
-# ocr-comparison
+# OCR-Comparison
 Comparing OCR models: Tesseract and Transkribus for Devanagari script.
 
 Transkribus and Tesseract OCR are the two models considered as shown below. 
