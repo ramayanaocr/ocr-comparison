@@ -1,0 +1,51 @@
+Num outputs,weights in Series:
+  1,40,0,1:1, 0
+Num outputs,weights in Series:
+  C5,5:25, 0
+  Ft64:64, 1664
+Total weights = 1664
+  [C5,5Ft64]:64, 1664
+  Mp3,3:64, 0
+  Lfys128:128, 98816
+  Lbx256:512, 788480
+  Lbx256:512, 1574912
+  Fc1261:1261, 646893
+Total weights = 3110765
+Built network:[1,40,0,1[C5,5Ft64]Mp3,3Lfys128Lbx256Lbx256Fc1261] from request [1,40,0,1 Ct5,5,64 Mp3,3 Lfys128 Lbx256 Lbx256 O1c1261]
+Training parameters:
+  Debug interval = 0, weights = 0.1, learning rate = 0.001, momentum=0.5
+null char=1260
+Loaded 24/24 pages (1-24) of document ram078.lstmf
+Loaded 14/14 pages (1-14) of document ram005.lstmf
+Loaded 24/24 pages (1-24) of document ram012.lstmf
+Loaded 21/21 pages (1-21) of document ram025.lstmf
+Loaded 26/26 pages (1-26) of document ram015.lstmf
+Loaded 23/23 pages (1-23) of document ram028.lstmf
+Loaded 24/24 pages (1-24) of document ram064.lstmf
+Loaded 24/24 pages (1-24) of document ram042.lstmf
+Loaded 22/22 pages (1-22) of document ram043.lstmf
+Loaded 30/30 pages (1-30) of document ram037.lstmf
+Loaded 22/22 pages (1-22) of document ram-eval.lstmf
+Empty truth string!
+Can't encode transcription: '' in language ''
+Loaded 22/22 pages (1-22) of document ram007.lstmf
+Loaded 24/24 pages (1-24) of document ram066.lstmf
+Empty truth string!
+Can't encode transcription: '' in language ''
+Loaded 24/24 pages (1-24) of document ram008.lstmf
+Loaded 26/26 pages (1-26) of document ram016.lstmf
+Compute CTC targets failed!
+Loaded 26/26 pages (1-26) of document ram074.lstmf
+Loaded 27/27 pages (1-27) of document ram045.lstmf
+Empty truth string!
+Can't encode transcription: '' in language ''
+Empty truth string!
+Can't encode transcription: '' in language ''
+Loaded 35/35 pages (1-35) of document ram034.lstmf
+Loaded 21/21 pages (1-21) of document ram075.lstmf
+Loaded 24/24 pages (1-24) of document ram046.lstmf
+Empty truth string!
+Can't encode transcription: '' in language ''
+Loaded 23/23 pages (1-23) of document ram092.lstmf
+Loaded 23/23 pages (1-23) of document ram038.lstmf
+Loaded 26/26 pages (1-26) of document ram082.lstmf

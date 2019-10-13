@@ -1,0 +1,28 @@
+Num outputs,weights in Series:
+  1,40,0,1:1, 0
+Num outputs,weights in Series:
+  C5,5:25, 0
+  Ft64:64, 1664
+Total weights = 1664
+  [C5,5Ft64]:64, 1664
+  Mp3,3:64, 0
+  Lfys128:128, 98816
+  Lbx256:512, 788480
+  Lbx256:512, 1574912
+  Fc138:138, 70794
+Total weights = 2534666
+Built network:[1,40,0,1[C5,5Ft64]Mp3,3Lfys128Lbx256Lbx256Fc138] from request [1,40,0,1 Ct5,5,64 Mp3,3 Lfys128 Lbx256 Lbx256 O1c138]
+Training parameters:
+  Debug interval = 0, weights = 0.1, learning rate = 0.001, momentum=0.5
+null char=137
+Deserialize header failed: ram078.lstmf
+Deserialize header failed: ram012.lstmf
+Deserialize header failed: ram015.lstmf
+Deserialize header failed: ram005.lstmf
+Deserialize header failed: ram028.lstmf
+Deserialize header failed: ram064.lstmf
+Load of page 0 failed!
+Load of images failed!!
+Deserialize header failed: ram025.lstmf
+Deserialize header failed: ram042.lstmf
+Deserialize header failed: ram043.lstmf

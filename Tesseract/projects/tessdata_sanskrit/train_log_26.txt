@@ -1,0 +1,917 @@
+sarthak@sarthakmt:~/projects/tesseract/ram_training$ sh ram.sh
+tessdata_ramayana/ram-eval
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+16.95user 0.64system 0:05.72elapsed 307%CPU (0avgtext+0avgdata 133592maxresident)k
+0inputs+0outputs (0major+54558minor)pagefaults 0swaps
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+1.18user 0.35system 0:01.56elapsed 98%CPU (0avgtext+0avgdata 133084maxresident)k
+0inputs+0outputs (0major+54429minor)pagefaults 0swaps
+tessdata_ramayana/ram025
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+20.56user 0.51system 0:06.60elapsed 319%CPU (0avgtext+0avgdata 133408maxresident)k
+0inputs+0outputs (0major+54527minor)pagefaults 0swaps
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+1.25user 0.42system 0:01.68elapsed 99%CPU (0avgtext+0avgdata 133096maxresident)k
+0inputs+0outputs (0major+54433minor)pagefaults 0swaps
+tessdata_ramayana/ram026
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+20.90user 0.62system 0:06.65elapsed 323%CPU (0avgtext+0avgdata 133596maxresident)k
+0inputs+0outputs (0major+54560minor)pagefaults 0swaps
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+1.29user 0.34system 0:01.63elapsed 100%CPU (0avgtext+0avgdata 133096maxresident)k
+0inputs+0outputs (0major+54432minor)pagefaults 0swaps
+tessdata_ramayana/ram027
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+21.73user 0.59system 0:06.91elapsed 323%CPU (0avgtext+0avgdata 133592maxresident)k
+0inputs+0outputs (0major+54561minor)pagefaults 0swaps
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+1.25user 0.39system 0:01.65elapsed 98%CPU (0avgtext+0avgdata 133084maxresident)k
+0inputs+0outputs (0major+54428minor)pagefaults 0swaps
+tessdata_ramayana/ram028
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+20.70user 0.60system 0:06.59elapsed 323%CPU (0avgtext+0avgdata 133400maxresident)k
+0inputs+0outputs (0major+54527minor)pagefaults 0swaps
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+1.21user 0.39system 0:01.61elapsed 99%CPU (0avgtext+0avgdata 133096maxresident)k
+0inputs+0outputs (0major+54434minor)pagefaults 0swaps
+Extracting tessdata components from /home/sarthak/tessdata_best/script/Devanagari.traineddata
+Wrote /home/sarthak/tessdata_best/script/Devanagari.config
+Wrote /home/sarthak/tessdata_best/script/Devanagari.lstm
+Wrote /home/sarthak/tessdata_best/script/Devanagari.lstm-punc-dawg
+Wrote /home/sarthak/tessdata_best/script/Devanagari.lstm-word-dawg
+Wrote /home/sarthak/tessdata_best/script/Devanagari.lstm-number-dawg
+Wrote /home/sarthak/tessdata_best/script/Devanagari.lstm-unicharset
+Wrote /home/sarthak/tessdata_best/script/Devanagari.lstm-recoder
+Wrote /home/sarthak/tessdata_best/script/Devanagari.version
+Version string:4.00.00alpha:Devanagari:synth20170629test
+
+0:config:size=552, offset=192
+17:lstm:size=11040731, offset=744
+18:lstm-punc-dawg:size=5210, offset=11041475
+19:lstm-word-dawg:size=17494186, offset=11046685
+20:lstm-number-dawg:size=5098, offset=28540871
+21:lstm-unicharset:size=13692, offset=28545969
+22:lstm-recoder:size=1957, offset=28559661
+23:version:size=42, offset=28561618
+rm: cannot remove 'build/*checkpoint': No such file or directory
+rm: cannot remove 'ram*.traineddata': No such file or directory
+Loaded file /home/sarthak/tessdata_best/script/Devanagari.lstm, unpacking...
+Warning: LSTMTrainer deserialized an LSTMRecognizer!
+Continuing from /home/sarthak/tessdata_best/script/Devanagari.lstm
+Loaded 23/23 lines (1-23) of document tessdata_ramayana/ram025.lstmf
+Loaded 25/25 lines (1-25) of document tessdata_ramayana/ram026.lstmf
+Loaded 23/23 lines (1-23) of document tessdata_ramayana/ram027.lstmf
+Loaded 23/23 lines (1-23) of document tessdata_ramayana/ram028.lstmf
+Iteration 0: GROUND  TRUTH : वाल्मीकिमुनिसिंहस्य कवितावनचारिणः ।
+Iteration 0: ALIGNED TRUTH : वा्मीिुनिसस्य कवितताावनचारिणः ।
+Iteration 0: BEST OCR TEXT : भ्र।वष्णवसम्मदायः,
+File tessdata_ramayana/ram025.lstmf line 0 :
+Mean rms=5.294%, delta=78.022%, train=77.778%(100%), skip ratio=0%
+Iteration 1: GROUND  TRUTH : तत्र तत्र कृतमस्तकालिम् ।
+Iteration 1: ALIGNED TRUTH : तत्र तत्र कृकृतमस्तकालिमम् ।
+Iteration 1: BEST OCR TEXT : यश्र यन्न रघुनाथक्ोतनं
+File tessdata_ramayana/ram026.lstmf line 0 :
+Mean rms=4.882%, delta=69.274%, train=92.735%(100%), skip ratio=0%
+Iteration 2: GROUND  TRUTH : सर्वाभीष्टप्रदं रामं सर्वारिष्टनिवारकम् ।
+Iteration 2: ALIGNED TRUTH : सर्वाभीष्टप्रदं रामं सर्वारिष्टनिवारारकम्
+Iteration 2: BEST OCR TEXT : 'सर्वविध्तप्रशमतं सर्वसिद्षिकरं परम्‌ ।
+File tessdata_ramayana/ram027.lstmf line 0 :
+Mean rms=4.494%, delta=59.361%, train=79.284%(91.667%), skip ratio=0%
+Iteration 3: GROUND  TRUTH : रामायणमहामालारत्नं वन्देऽनिलात्मजम् ॥ १३ ॥
+Iteration 3: ALIGNED TRUTH : रामायणमणमहाामालारतत्नं वन्देऽनिलात्ामजम् ॥१३॥
+Iteration 3: BEST OCR TEXT : गोष्पदी छृतघारीशं मशकोङृतररापस
+File tessdata_ramayana/ram028.lstmf line 0 :
+Mean rms=4.483%, delta=58.85%, train=88.034%(93.75%), skip ratio=0%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 4: GROUND  TRUTH :  प्रादाय तेनैव ददाह लड्कां
+Iteration 4: ALIGNED TRUTH :  प्राप्रदायय तेेनैव ददाह लड्््कां
+Iteration 4: BEST OCR TEXT : ' यः शोाच्वहि ननवातञायाः ।
+File tessdata_ramayana/ram026.lstmf line 1 :
+Mean rms=4.411%, delta=56.706%, train=88.946%(95%), skip ratio=20%
+Iteration 5: GROUND  TRUTH : लक्ष्मीनारायणं वन्दे तद्भकप्रवरो हि यः।
+Iteration 5: ALIGNED TRUTH : ललक्ष्मीनारायणं वनन्दे तद्भकप्रवरो हि  यः। ।
+Iteration 5: BEST OCR TEXT : घुक्काम्चरधरं विष्णं शशिव्ण चतुभुञम्‌ ।
+File tessdata_ramayana/ram027.lstmf line 1 :
+Mean rms=4.47%, delta=58.178%, train=87.455%(95.833%), skip ratio=16.667%
+Iteration 6: GROUND  TRUTH : श्रृगवनरामकथानादं को न याति परां गतिम् ॥ ११ ॥
+Iteration 6: ALIGNED TRUTH : श्ृगवनरामकथानाादंं को न याति परां गतिम ॥११ ॥
+Iteration 6: BEST OCR TEXT : घमीकेछुनिसिहस्य कर्विवावनचारिः ।
+File tessdata_ramayana/ram028.lstmf line 1 :
+Mean rms=4.504%, delta=58.937%, train=88.612%(96.429%), skip ratio=14.286%
+Compute CTC targets failed!
+Iteration 7: GROUND  TRUTH : रघुवरचरितं मुनिप्रणीतं
+Iteration 7: ALIGNED TRUTH : ररवरघुवरिचित मुं निपुनिप्रणीतं
+Iteration 7: BEST OCR TEXT : सममध्ुरापनतार्थवाक्यदद्धस्‌ ।
+File tessdata_ramayana/ram026.lstmf line 2 :
+Mean rms=4.551%, delta=59.346%, train=94.383%(96.875%), skip ratio=25%
+Iteration 8: GROUND  TRUTH : जयतीर्थाख्यतरणिर्भासतां नो हृदम्वरे ॥८॥
+Iteration 8: ALIGNED TRUTH : जयतीर्थाख्यतरणिरिर्भासतांं नो हृदम्वरेर ॥ ॥८॥
+Iteration 8: BEST OCR TEXT : मम वर्चसि विशत्ता सन्निधि मनसे च ॥ ७॥
+File tessdata_ramayana/ram027.lstmf line 2 :
+Mean rms=4.626%, delta=61.662%, train=95.292%(97.222%), skip ratio=22.222%
+Iteration 9: GROUND  TRUTH : पादाय तेनैव ददाह लड्डां
+Iteration 9: ALIGNED TRUTH : पादायाय तेनैव ददाह  लड्डडां
+Iteration 9: BEST OCR TEXT : यः शोकर्वि जनकततमज्ञाथाः 1
+File tessdata_ramayana/ram028.lstmf line 2 :
+Mean rms=4.654%, delta=62.653%, train=98.263%(97.5%), skip ratio=20%
+Iteration 10: GROUND  TRUTH : अज्जनानन्दनं वोरं जानकीशोकनाशनम ।
+Iteration 10: ALIGNED TRUTH : अज्जनानन्दनंवोनं वोनर जीशानकीशोोकनाशननम ।
+Iteration 10: BEST OCR TEXT : यः पिवन्सततं रामचरितासृतसागरम्‌ ।
+File tessdata_ramayana/ram025.lstmf line 3 :
+Mean rms=4.665%, delta=63.018%, train=100.025%(95.455%), skip ratio=18.182%
+Iteration 11: GROUND  TRUTH : मध्येपुष्पकमासने मणिमये वीरासने सुख्यितम् ।
+Iteration 11: ALIGNED TRUTH : म्येपपुष्कमासने मणिमये वीसे सुखयतम् ।
+Iteration 11: BEST OCR TEXT : पैदेहोसदितं सुरदुमतले हैमे मदामण्डपे
+File tessdata_ramayana/ram026.lstmf line 3 :
+Mean rms=4.676%, delta=62.6%, train=98.085%(95.833%), skip ratio=16.667%
+Iteration 12: GROUND  TRUTH : वेदे रामायणे चैव पुराणे भारते तथा ।
+Iteration 12: ALIGNED TRUTH : वेदेे रामायणे चैवैवैव पुराणे भारतरते तथता था ।
+Iteration 12: BEST OCR TEXT : लक्ष्पीनारायणं वन्रे तद्भक्रवरे हि यः ।
+File tessdata_ramayana/ram027.lstmf line 3 :
+Mean rms=4.636%, delta=61.586%, train=97.592%(95.055%), skip ratio=15.385%
+Iteration 13: GROUND  TRUTH : मारुह्य कविताशास्रां वन्दे वाल्मीकिकोकिलम् ॥ १०॥
+Iteration 13: ALIGNED TRUTH : मारहह्य कविताशास्रां वन्ददे वालाल्मीकिकोकल ॥ १०॥
+Iteration 13: BEST OCR TEXT : कू जन्तं सम रामेति मध्युर मधुयचल
+File tessdata_ramayana/ram028.lstmf line 3 :
+Mean rms=4.618%, delta=61.008%, train=95.978%(95.408%), skip ratio=14.286%
+Iteration 14: GROUND  TRUTH : श्रीवैष्णवसम्प्रदाय
+Iteration 14: ALIGNED TRUTH : श्ररीवैैष्णवसम्पप््रररदााय
+Iteration 14: BEST OCR TEXT : %ा पारायण होता हैं, उन्दीं सम्प्रदायों के अनुसार उपक्रम और लमाएन कम
+File tessdata_ramayana/ram025.lstmf line 4 :
+Mean rms=4.673%, delta=62.496%, train=107.913%(95.714%), skip ratio=13.333%
+Iteration 15: GROUND  TRUTH : माञ्जनेयमतिपाटलाननं
+Iteration 15: ALIGNED TRUTH : माञ्ाञ्जनेयमतिपाटललाननं
+Iteration 15: BEST OCR TEXT : लमासि दं प्राञ्जव्तिरातयम्‌ श ७ ॥
+File tessdata_ramayana/ram026.lstmf line 4 :
+Mean rms=4.653%, delta=62.016%, train=108.043%(95.982%), skip ratio=12.5%
+Iteration 16: GROUND  TRUTH : प्रसन्नवदनं ध्यायेत्सर्वविध्नोपशान्तये ॥ १॥
+Iteration 16: ALIGNED TRUTH : पप्रसन्नवदनं ध्यायेतसर्वविध्नोपशान्तये ॥ १॥
+Iteration 16: BEST OCR TEXT : माध्नस स्भदा[यः
+File tessdata_ramayana/ram027.lstmf line 4 :
+Mean rms=4.7%, delta=63.83%, train=106.634%(96.218%), skip ratio=11.765%
+Iteration 17: GROUND  TRUTH : वाल्मीकैर्मुनिसिंहस्य कवितावनचारिगाः ।
+Iteration 17: ALIGNED TRUTH : वाल्मीकैर्मुनिसिंंहस्य कवविताववनचारिगगााः । ।
+Iteration 17: BEST OCR TEXT : ा किताशास्ा दन्दे घाल्ीकिकोकिलम्‌ ॥ १० ॥
+File tessdata_ramayana/ram028.lstmf line 4 :
+Mean rms=4.689%, delta=63.542%, train=105.838%(96.429%), skip ratio=11.111%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 18: GROUND  TRUTH : यत्र यत्र रघुनाधकीर्तनं
+Iteration 18: ALIGNED TRUTH : यत्र यततत्र रघुघुाधनाधकीर्ीतनंं
+Iteration 18: BEST OCR TEXT : भावया(मि परसाननन्दलम्‌ ॥ ८ ॥
+File tessdata_ramayana/ram026.lstmf line 5 :
+Mean rms=4.653%, delta=62.634%, train=107.505%(96.617%), skip ratio=15.789%
+Iteration 19: GROUND  TRUTH : अग्ने षाचयति प्रभञ्चनसुते तवं मुनिभ्यः परं
+Iteration 19: ALIGNED TRUTH : अग्ने षाचयति प्रभञ्चनसुते तवं मिभ्यः परं
+Iteration 19: BEST OCR TEXT : ( ३.)
+File tessdata_ramayana/ram027.lstmf line 5 :
+Mean rms=4.856%, delta=68.724%, train=107.478%(96.786%), skip ratio=15%
+Iteration 20: GROUND  TRUTH : मनोजवं मारुततुल्यवेगं
+Iteration 20: ALIGNED TRUTH : मनोजजवं मार ुततुुल्यवेगगंं ं
+Iteration 20: BEST OCR TEXT : कषीशम्षदस्तार घन्दे लङ्ासयङ्रम्‌ ॥ ९७॥
+File tessdata_ramayana/ram028.lstmf line 5 :
+Mean rms=4.811%, delta=67.462%, train=109.936%(96.939%), skip ratio=14.286%
+Iteration 21: GROUND  TRUTH : श्रीमद्रामायणपारायणोपकम
+Iteration 21: ALIGNED TRUTH : श्रीमद्रामयणपाराणोपक
+Iteration 21: BEST OCR TEXT : 1ः iN
+File tessdata_ramayana/ram025.lstmf line 6 :
+Mean rms=4.807%, delta=67.564%, train=110.472%(97.078%), skip ratio=13.636%
+Iteration 22: GROUND  TRUTH : सीतापति रघुकुलान्वयरतदीपम् ।
+Iteration 22: ALIGNED TRUTH : ससीतापति रघुकुललान्वयरतदतदीपम् ् ।।
+Iteration 22: BEST OCR TEXT : भ्ीराधं द्शरथात्सञ्ञसपेयं
+File tessdata_ramayana/ram026.lstmf line 6 :
+Mean rms=4.778%, delta=66.484%, train=109.867%(97.205%), skip ratio=13.043%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 23: GROUND  TRUTH : गोपदीकृतवारीशं मशकीकृतराक्षसम् ।
+Iteration 23: ALIGNED TRUTH : गोोपदीीकृतावारीशं मशकीकृतरराकृषरम्षसम् ।
+Iteration 23: BEST OCR TEXT : भ्रृ्तस्द भुि च्दे प्राचेतसमकमम्‌ ॥ २ ॥
+File tessdata_ramayana/ram028.lstmf line 6 :
+Mean rms=4.736%, delta=65.039%, train=109.961%(97.321%), skip ratio=16.667%
+Iteration 24: GROUND  TRUTH : मनोजवं मारुततुल्यवेगं
+Iteration 24: ALIGNED TRUTH : मनोजजजजोजजववोजवं मारााररुतुलुल्ययवेगं
+Iteration 24: BEST OCR TEXT : गेर्पदीछत दारीशं मशकीकतरा्ञसम्‌ ।
+File tessdata_ramayana/ram025.lstmf line 7 :
+Mean rms=4.708%, delta=64.394%, train=111.017%(97.429%), skip ratio=16%
+Iteration 25: GROUND  TRUTH : भावयामि पवमाननन्दनम् ॥ ८ ॥
+Iteration 25: ALIGNED TRUTH : भाववयामि पवमाननन्दनम् ॥ ८॥ ॥
+Iteration 25: BEST OCR TEXT : ारिलाततसमूल वा स्पिन
+File tessdata_ramayana/ram026.lstmf line 7 :
+Mean rms=4.678%, delta=63.442%, train=110.309%(97.527%), skip ratio=15.385%
+Iteration 26: GROUND  TRUTH : आनन्दतीर्थमतुलं भजे तापत्रयापहम् ॥ ६ ॥
+Iteration 26: ALIGNED TRUTH : आनन्दतीर्थथमततुलं भजजे तापतरयापहम् ॥ ६ ॥
+Iteration 26: BEST OCR TEXT : जावकोजानिमनिशं वस्दं मद्खुदवन्द्तिम्‌ | ५ ॥
+File tessdata_ramayana/ram027.lstmf line 7 :
+Mean rms=4.655%, delta=62.851%, train=109.927%(97.002%), skip ratio=14.815%
+Iteration 27: GROUND  TRUTH : श्रीरामदूत शिरसा नमामि ॥ १५ ॥
+Iteration 27: ALIGNED TRUTH : श्रीदूत ािरतमदूत शरसा नरसमा॥मि ॥ १५ ॥
+Iteration 27: BEST OCR TEXT : ाताव्मज वानस्थूथसुुयं
+File tessdata_ramayana/ram028.lstmf line 7 :
+Mean rms=4.614%, delta=61.523%, train=109.691%(97.109%), skip ratio=14.286%
+Iteration 28: GROUND  TRUTH : अतृप्तस्तं मुनि वन्दे प्राचेतसमकल्मषम ॥ ३ ॥
+Iteration 28: ALIGNED TRUTH : अतृपृप्तस्तं मुननि वन्दे प््राचेतसमक्लल्मषम ॥ ३ ॥
+Iteration 28: BEST OCR TEXT : शारुद्य कर्विताशा्खा चस्दे वाोकिककितम्‌ ॥ १ ॥
+File tessdata_ramayana/ram025.lstmf line 8 :
+Mean rms=4.579%, delta=60.519%, train=108.887%(96.223%), skip ratio=13.793%
+Iteration 29: GROUND  TRUTH : श्रीराघवं दशरथात्मजमप्रमेयं
+Iteration 29: ALIGNED TRUTH : श्ीरीघराघवं दशरथाात्शरात्मजमप्रमेयं
+Iteration 29: BEST OCR TEXT : द्शशिर्स्च घथ निशामय्वम्‌ ॥ ११ ॥
+File tessdata_ramayana/ram026.lstmf line 8 :
+Mean rms=4.563%, delta=60.044%, train=108.472%(96.349%), skip ratio=13.333%
+Iteration 30: GROUND  TRUTH : सकलवचनचेतोदेवता भारती सा
+Iteration 30: ALIGNED TRUTH : सककवलवचचचनचेेतोदेववता भारती     ससससससााााााा
+Iteration 30: BEST OCR TEXT : भधर्ति यदचुावादडसूकीऽपि वारमी
+File tessdata_ramayana/ram027.lstmf line 8 :
+Mean rms=4.533%, delta=58.972%, train=108.069%(96.467%), skip ratio=12.903%
+Iteration 31: GROUND  TRUTH : कपीशमक्षहन्तारं वन्दे लङ्कामयङ्करम् ॥ १४॥
+Iteration 31: ALIGNED TRUTH : कपीपीमक्शम्षहनन्तातरं वन्न्दे ल्ाङ्य्ा्यकामयङ्ककर्करम् ॥ १४॥
+Iteration 31: BEST OCR TEXT : छञ्जनानन्दनं सीर जानवीीशोकनाशाम्‌ 1॥
+File tessdata_ramayana/ram028.lstmf line 8 :
+Mean rms=4.497%, delta=57.73%, train=107.741%(96.577%), skip ratio=12.5%
+Iteration 32: GROUND  TRUTH : कपीशमक्षहन्तारं वन्दे लङ्काभयङ्करम ॥ ५ ॥
+Iteration 32: ALIGNED TRUTH : कपीशक्षहन्तांााारं वन्दे लङ्ला्काभयङ्कररभयङररम ॥ ५५ ॥
+Iteration 32: BEST OCR TEXT : अस्तं घुनि वन्दे भ्राचेतसमकमम्‌ ॥ २ ॥
+File tessdata_ramayana/ram025.lstmf line 9 :
+Mean rms=4.466%, delta=56.89%, train=106.619%(95.166%), skip ratio=12.121%
+Iteration 33: GROUND  TRUTH :  यः शोकवहि जनकात्मजायाः ।
+Iteration 33: ALIGNED TRUTH :   यः शकवहिकवहि जनकात्मजायाः ।।।
+Iteration 33: BEST OCR TEXT : उल्लङ्कय सिन्थोः सस्तित्तं सलीलं
+File tessdata_ramayana/ram026.lstmf line 9 :
+Mean rms=4.456%, delta=56.771%, train=107.556%(95.308%), skip ratio=11.765%
+Iteration 34: GROUND  TRUTH : आदावन्ते च मध्ये च विष्णुः सर्वत्र गीयते ॥३॥
+Iteration 34: ALIGNED TRUTH : आदावनन्ते च मध्ये विषणुः सर्वते चर विष्णुः सर्यत्रगीयते ॥३॥ ३॥
+Iteration 34: BEST OCR TEXT : झीसदान्दतीर्था्यो खुुस्त च नमा्यहम्‌ ॥ २॥
+File tessdata_ramayana/ram027.lstmf line 9 :
+Mean rms=4.426%, delta=55.873%, train=106.705%(95.085%), skip ratio=11.429%
+Iteration 35: GROUND  TRUTH : कूजन्तं राम रामेति मधुरं मधुरातसम् ।
+Iteration 35: ALIGNED TRUTH : कूजन्ततं रामााम रामेति मधुरुरं म धुरातसमम् ् ।
+Iteration 35: BEST OCR TEXT : शुाचं व्यक्चयस्दी सति थीजयतीवा ॥ £ ।
+File tessdata_ramayana/ram028.lstmf line 9 :
+Mean rms=4.407%, delta=55.314%, train=106.519%(94.759%), skip ratio=11.111%
+Iteration 36: GROUND  TRUTH : गोष्पदीकृतवारीशं मशकीकृतराक्षसम ।
+Iteration 36: ALIGNED TRUTH : गोष्ष्पददीककृतवाावाीवारीशं मशकीकृतराक्ष्स्षषसम म ।
+Iteration 36: BEST OCR TEXT : घामी किसुनिसिहस्य कावितावयारिशः ।
+File tessdata_ramayana/ram025.lstmf line 10 :
+Mean rms=4.384%, delta=54.731%, train=106.422%(93.999%), skip ratio=10.811%
+Iteration 37: GROUND  TRUTH : वेदः प्राचेतसादासीत्साञादामायणात्मना ॥ १० ॥
+Iteration 37: ALIGNED TRUTH : वेदवेदः प्राचेतसाादास्साञादामणात्मना ॥ १०० ॥
+Iteration 37: BEST OCR TEXT : देद्वेदयं परे पसि झते दशास्याये ।
+File tessdata_ramayana/ram026.lstmf line 10 :
+Mean rms=4.357%, delta=53.989%, train=105.715%(94.157%), skip ratio=10.526%
+Iteration 38: GROUND  TRUTH : सर्वजीवप्रणेतारं वन्दे विजयदं हरिम् ॥ ४॥
+Iteration 38: ALIGNED TRUTH : सरर्वजीवप्रण्तेारं वनन्दे दे विजयदं हरििम्् ॥ ४४॥
+Iteration 38: BEST OCR TEXT : झादावन्ते च मध्ये द विषुः सर्व गीयते ॥ ३ ॥
+File tessdata_ramayana/ram027.lstmf line 10 :
+Mean rms=4.336%, delta=53.383%, train=104.818%(93.88%), skip ratio=10.256%
+Iteration 39: GROUND  TRUTH : भाञ्जनेयमतिपाटलानने
+Iteration 39: ALIGNED TRUTH : भाञाञ्जनेयमममतिपाटलालाने
+Iteration 39: BEST OCR TEXT : नामि ते पालिनेयम्‌ ॥ १६ ॥
+File tessdata_ramayana/ram028.lstmf line 10 :
+Mean rms=4.315%, delta=52.713%, train=104.447%(94.033%), skip ratio=10%
+Iteration 40: GROUND  TRUTH : यः पिवन्सततं रामचरितामृतसागरम ।
+Iteration 40: ALIGNED TRUTH : यः पिवन्सततं रामचचरररिताामाृतमतततसागगरम
+Iteration 40: BEST OCR TEXT : कून्त राम रपेति मुर मुराम ।
+File tessdata_ramayana/ram025.lstmf line 11 :
+Mean rms=4.29%, delta=52.022%, train=103.501%(93.569%), skip ratio=9.756%
+Iteration 41: GROUND  TRUTH : पारिजाततरुमूलवासिनं
+Iteration 41: ALIGNED TRUTH : पाररिजातततरुरुुमूलवूलवासिनंंनंनंं
+Iteration 41: BEST OCR TEXT : काादिकमीयाचियम्‌ ।
+File tessdata_ramayana/ram026.lstmf line 11 :
+Mean rms=4.265%, delta=51.192%, train=103.774%(93.722%), skip ratio=9.524%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 42: GROUND  TRUTH : गुरुभावं व्यञ्जयन्ती भाति श्रीजयतीर्थवाक् ॥ ६ ॥
+Iteration 42: ALIGNED TRUTH : गुुभववं वव्यञ्जयन्ती भाति शि ्रीजयतीर्थवाकक् ॥ ६ ॥
+Iteration 42: BEST OCR TEXT : ः पदैदच यीरवाविमनिरिः ।
+File tessdata_ramayana/ram028.lstmf line 11 :
+Mean rms=4.245%, delta=50.482%, train=103.637%(93.868%), skip ratio=11.628%
+Iteration 43: GROUND  TRUTH : जितेन्द्रियं बुद्धिमतां वरिष्ठम ।
+Iteration 43: ALIGNED TRUTH : जितितेेने्न्द्न्द्रिययं बुुद््धिमतां वरिषिष्ठम ।
+Iteration 43: BEST OCR TEXT : रााय ामाा वन्दनिला  ॥ ७ ॥
+File tessdata_ramayana/ram025.lstmf line 12 :
+Mean rms=4.22%, delta=49.75%, train=103.488%(94.007%), skip ratio=11.364%
+Iteration 44: GROUND  TRUTH : नमामि तँ प्राञ्जलिराञ्जनेयम् ॥ ७ ॥
+Iteration 44: ALIGNED TRUTH : नमामि तँँ प््राञ्जजलराञ्जनयम ॥ ७
+Iteration 44: BEST OCR TEXT : पादाय सेच ददा ला
+File tessdata_ramayana/ram026.lstmf line 12 :
+Mean rms=4.198%, delta=49.122%, train=103.093%(94.14%), skip ratio=11.111%
+Iteration 45: GROUND  TRUTH : शुक्लाम्बरधरं विष्णु शशिवर्णं चतुर्भुजम् ।
+Iteration 45: ALIGNED TRUTH : शुक्लाम्बरधरंविष्णुशशिवर्णंचतुर्भुजम् ।
+Iteration 45: BEST OCR TEXT : -
+File tessdata_ramayana/ram027.lstmf line 12 :
+Mean rms=4.231%, delta=50.057%, train=102.874%(94.268%), skip ratio=10.87%
+Iteration 46: GROUND  TRUTH : चित्रै पदैश्च गम्भीरेवाक्यैमनिरखपिडतैः ।
+Iteration 46: ALIGNED TRUTH : चित्रै पदैश्च गम्भाक्यैमनिरखपिडतैः ।
+Iteration 46: BEST OCR TEXT : (८ )
+File tessdata_ramayana/ram028.lstmf line 12 :
+Mean rms=4.317%, delta=52.589%, train=102.916%(94.39%), skip ratio=10.638%
+Iteration 47: GROUND  TRUTH : प्रत्येक खण्ड के भादि और अन्त में क्रमशः दे दिये गये हैं । ]
+Iteration 47: ALIGNED TRUTH : पप्रत्येक खण्ड के भे भदिदि और अन्त में क्रमः दे दिययये गये गहैं ह।हैंं । ।] ]
+Iteration 47: BEST OCR TEXT : [नोट--सचातर्म है अस्तर्गत जित पैदिकसस्यदाया ी ीकवा
+File tessdata_ramayana/ram025.lstmf line 13 :
+Mean rms=4.3%, delta=52.04%, train=102.514%(94.506%), skip ratio=10.417%
+Iteration 48: GROUND  TRUTH : वाप्पवारिपरिपूर्णलोचनं
+Iteration 48: BEST OCR TEXT : द ल छमस  ि्‌ ॥
+File tessdata_ramayana/ram026.lstmf line 13 :
+Mean rms=4.301%, delta=52.236%, train=103.084%(94.619%), skip ratio=10.204%
+Iteration 49: GROUND  TRUTH : न्न्याख्यान्तं भरतादिभिः परिवृतं रामं भजे श्यामलम् ॥१३॥
+Iteration 49: ALIGNED TRUTH : न्यख्यन्तं भरतादिभिः परिवृतं रामं भजे श्या म्यालम् ॥३॥
+Iteration 49: BEST OCR TEXT : घे ाचयति नुते त्य मुनि्यः पर
+File tessdata_ramayana/ram027.lstmf line 13 :
+Mean rms=4.276%, delta=51.547%, train=102.379%(94.726%), skip ratio=10%
+Iteration 50: GROUND  TRUTH : जितेन्द्रियं बुद्धिमतां वरिष्ठम्
+Iteration 50: ALIGNED TRUTH : जितेनेद्ररियं बुददद्धिमतां वरिष्ठम्
+Iteration 50: BEST OCR TEXT : भने मातलेा
+File tessdata_ramayana/ram028.lstmf line 13 :
+Mean rms=4.259%, delta=51.054%, train=102.214%(94.83%), skip ratio=9.804%
+Iteration 51: GROUND  TRUTH : का पारायण होता है, उन्हीं सम्प्रदायों के अनुसार उपक्रम और समापन क्रम
+Iteration 51: ALIGNED TRUTH : का पारायण होा है,उनहीं मप्रदों े अुसारउक्रमऔ समापनक्रम
+Iteration 51: BEST OCR TEXT : भामदासायसिय
+File tessdata_ramayana/ram025.lstmf line 14 :
+Mean rms=4.259%, delta=51.005%, train=101.976%(94.929%), skip ratio=9.615%
+Iteration 52: GROUND  TRUTH : तदुपगतसमाससन्धियोगं
+Iteration 52: ALIGNED TRUTH : तदुपुगपतगमातासमसाासासनसनसनन््धिििययोगं ं
+Iteration 52: BEST OCR TEXT : घेद्‌ः ाचवसादासीताााय
+File tessdata_ramayana/ram026.lstmf line 14 :
+Mean rms=4.24%, delta=50.496%, train=102.788%(95.025%), skip ratio=9.434%
+Iteration 53: GROUND  TRUTH : अभ्रमं भङ्गारहितमजडं विमलं संदा ।
+Iteration 53: ALIGNED TRUTH : अभ्र्मं भङ्गारं रहितमजडं मजार्वा रविमडलं ं संदाा। ।
+Iteration 53: BEST OCR TEXT : सर्वाी ा सरारिनिवाकम्‌ ।
+File tessdata_ramayana/ram027.lstmf line 14 :
+Mean rms=4.213%, delta=49.72%, train=102.464%(94.746%), skip ratio=9.259%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 54: GROUND  TRUTH : कूजन्तं राम रामेति मधुरं मधुराक्षरम ।
+Iteration 54: ALIGNED TRUTH : ककूकूूजूनजन्तं रं राममम रामामेति मधुरं ममधुराक कक्षषररमम म ।
+Iteration 54: BEST OCR TEXT : त्ये सण्ड क अि ीर अन्त मे कमा दे दियो थये है । ]
+File tessdata_ramayana/ram025.lstmf line 15 :
+Mean rms=4.198%, delta=49.314%, train=102.802%(94.539%), skip ratio=10.909%
+Iteration 55: GROUND  TRUTH : मारुति नमत राक्षसान्तकम् ॥ ६ ॥
+Iteration 55: BEST OCR TEXT : दपािपरिर्णय
+File tessdata_ramayana/ram026.lstmf line 15 :
+Mean rms=4.205%, delta=49.282%, train=102.81%(94.636%), skip ratio=10.714%
+Iteration 56: GROUND  TRUTH : माध्वसम्पदायः
+Iteration 56: ALIGNED TRUTH : मााध्ववससम्््पपदायायः
+Iteration 56: BEST OCR TEXT : ्यायानत भतिसिः पित राम भजे याम ॥१३७
+File tessdata_ramayana/ram027.lstmf line 15 :
+Mean rms=4.2%, delta=49.188%, train=104.64%(94.731%), skip ratio=10.526%
+Iteration 57: GROUND  TRUTH : यः शोकवह्नि जनकात्मजायाः।
+Iteration 57: ALIGNED TRUTH : यःयः शोकववह्निि जनकात्मजाजयाः।
+Iteration 57: BEST OCR TEXT : उय स्ि्ोः सा सीा
+File tessdata_ramayana/ram028.lstmf line 15 :
+Mean rms=4.176%, delta=48.469%, train=104.162%(94.821%), skip ratio=10.345%
+Iteration 58: GROUND  TRUTH : रामायणमहामाजारलं वन्देऽनिलात्मजम ॥ ४॥
+Iteration 58: ALIGNED TRUTH : रराामायायणमहामाजाररं वंं वन््देऽनिलललात्मजमम ॥ ४॥
+Iteration 58: BEST OCR TEXT : वन    यि प ति
+File tessdata_ramayana/ram025.lstmf line 16 :
+Mean rms=4.158%, delta=47.928%, train=104.002%(94.909%), skip ratio=10.169%
+Iteration 59: GROUND  TRUTH : रामं निशाचरविनाशकरं नमामि ॥ १२ ॥
+Iteration 59: ALIGNED TRUTH : ररामं निशाचरविनाशकरं न मामिमि ॥ १२ ॥
+Iteration 59: BEST OCR TEXT : मााुासि य
+File tessdata_ramayana/ram026.lstmf line 16 :
+Mean rms=4.146%, delta=47.528%, train=103.784%(94.994%), skip ratio=10%
+Iteration 60: GROUND  TRUTH : जडमतिरपि जन्तुर्जायते प्राज्ञमौलिः।
+Iteration 60: ALIGNED TRUTH : जडमतितििरपि जजन््तुर्जायते प्रारपाज्ञ्माौजज्ञमौलिः।
+Iteration 60: BEST OCR TEXT : ्ा्ी  े ानयाप ॥ ॥
+File tessdata_ramayana/ram027.lstmf line 16 :
+Mean rms=4.127%, delta=46.979%, train=103.494%(95.076%), skip ratio=9.836%
+Iteration 61: GROUND  TRUTH : अञ्जनानन्दनं वीरं जानकीशोकनाशनम् ।
+Iteration 61: BEST OCR TEXT : ा  N
+File tessdata_ramayana/ram028.lstmf line 16 :
+Mean rms=4.13%, delta=47.427%, train=103.296%(95.156%), skip ratio=9.677%
+Iteration 62: GROUND  TRUTH : [नोट-सनातनधर्म के अन्तर्गत जिन वैदिकसम्प्रदायों में श्रीमद्रामायण
+Iteration 62: BEST OCR TEXT : R
+File tessdata_ramayana/ram025.lstmf line 17 :
+Mean rms=4.149%, delta=48.101%, train=103.267%(95.232%), skip ratio=9.524%
+Iteration 63: GROUND  TRUTH : ( २ ) उल्लड्घच सिन्धोः सलीलं सलीलं
+Iteration 63: BEST OCR TEXT : CR)
+File tessdata_ramayana/ram026.lstmf line 17 :
+Mean rms=4.158%, delta=48.227%, train=103.261%(95.307%), skip ratio=9.375%
+Iteration 64: GROUND  TRUTH : श्रीमदानन्दतीर्थाख्यो गुरुस्तं च नमाम्यहम् ॥२॥
+Iteration 64: ALIGNED TRUTH : श्रीममनान्ददतीीरर्थाख्यो गगुरुसुसस्तं च नमाम्यहम् ॥२ ॥
+Iteration 64: BEST OCR TEXT : पन ्यायेविो पये ॥ १ ॥
+File tessdata_ramayana/ram027.lstmf line 17 :
+Mean rms=4.141%, delta=47.689%, train=103.047%(95.379%), skip ratio=9.231%
+Iteration 65: GROUND  TRUTH : नमामि ते प्राञ्जलिराजनेयम् ॥ १६ ॥
+Iteration 65: ALIGNED TRUTH : ननमाामिमि ते प्रा्जलिाजेय् ॥्१६  ॥
+Iteration 65: BEST OCR TEXT : ध्ााय तनेय द
+File tessdata_ramayana/ram028.lstmf line 17 :
+Mean rms=4.121%, delta=47.185%, train=102.689%(95.449%), skip ratio=9.091%
+Compute CTC targets failed!
+Iteration 66: GROUND  TRUTH : बैदेहीसहितं सुरदुमतले हैमे महामण्डपे
+Iteration 66: ALIGNED TRUTH : बैदेहसेहीसससहितं सुरदुमतले हैमे महामण्डडपपे
+Iteration 66: BEST OCR TEXT : रम निशाचविाशक ाि ॥  ॥
+File tessdata_ramayana/ram026.lstmf line 18 :
+Mean rms=4.104%, delta=46.638%, train=102.851%(95.517%), skip ratio=10.448%
+Iteration 67: GROUND  TRUTH : मम वचसि विधत्तां सन्निधि मानसे च ॥७॥
+Iteration 67: ALIGNED TRUTH : मम वचसिि विधत्तां सन्ि्निधिधि माननसे े ॥७७॥
+Iteration 67: BEST OCR TEXT : जि ायते पि ।
+File tessdata_ramayana/ram027.lstmf line 18 :
+Mean rms=4.086%, delta=46.076%, train=102.65%(95.583%), skip ratio=10.294%
+Iteration 68: GROUND  TRUTH : यः पिवन्सततं रामचरितामृतसागरम् ।
+Iteration 68: ALIGNED TRUTH : यः पिवन्सततं ररामचरितामृतसागरम् ।
+Iteration 68: BEST OCR TEXT :    ि  म
+File tessdata_ramayana/ram028.lstmf line 18 :
+Mean rms=4.081%, delta=45.77%, train=102.566%(95.647%), skip ratio=10.145%
+Iteration 69: GROUND  TRUTH : वातात्मजं वानरयूथमुख्यं ।
+Iteration 69: ALIGNED TRUTH : ववावाताातात्ममजं वानरय यूानूमरुखयख्यूथमुखु्खं्यं ।
+Iteration 69: BEST OCR TEXT :  ्न थीर अन ीशीक ।
+File tessdata_ramayana/ram025.lstmf line 19 :
+Mean rms=4.063%, delta=45.21%, train=102.584%(95.233%), skip ratio=10%
+Iteration 70: GROUND  TRUTH : वेदवेद्ये परे पुंसि जाते दशरथात्मजे ।
+Iteration 70: ALIGNED TRUTH : वेदवेद्ये पपरपरेे पुंसि जाते  दशरथात्मजे ।
+Iteration 70: BEST OCR TEXT : मा त ाा
+File tessdata_ramayana/ram026.lstmf line 19 :
+Mean rms=4.05%, delta=44.844%, train=102.326%(95.3%), skip ratio=9.859%
+Iteration 71: GROUND  TRUTH : सर्वविघ्नप्रशमनं सर्वसिद्धिकरं परम् ।
+Iteration 71: ALIGNED TRUTH : सर्ववविघ्नप्रशमनं सर्वस दि्धिकररं पररम्ं परम्।
+Iteration 71: BEST OCR TEXT : घेदे ाय े पे ते ा ।
+File tessdata_ramayana/ram027.lstmf line 19 :
+Mean rms=4.033%, delta=44.359%, train=102.403%(95.018%), skip ratio=9.722%
+Iteration 72: GROUND  TRUTH : वातात्मजं वानरयूथमुख्यं
+Iteration 72: ALIGNED TRUTH : वातात्मजं वावानरयूथमुख्यं
+Iteration 72: BEST OCR TEXT : तन्
+File tessdata_ramayana/ram028.lstmf line 19 :
+Mean rms=4.023%, delta=44.06%, train=102.085%(95.086%), skip ratio=9.589%
+Iteration 73: GROUND  TRUTH : श्रीरामदूतं शिरसा नमामि ॥ ६ ॥
+Iteration 73: ALIGNED TRUTH : श्रीरामदमदूूतंं शिरसिरा सनामा नमाा माामि ॥ ६ ॥
+Iteration 73: BEST OCR TEXT : कपीा  ाय
+File tessdata_ramayana/ram025.lstmf line 20 :
+Mean rms=4.007%, delta=43.629%, train=101.823%(95.153%), skip ratio=9.459%
+Iteration 74: GROUND  TRUTH : सममधुरोपनतार्थवाक्यवद्धम् ।
+Iteration 74: BEST OCR TEXT : त
+File tessdata_ramayana/ram026.lstmf line 20 :
+Mean rms=4.008%, delta=43.492%, train=101.704%(95.217%), skip ratio=9.333%
+Iteration 75: GROUND  TRUTH : भवति यदनुभावादेडसूकोऽपि वाग्मी
+Iteration 75: ALIGNED TRUTH : भववतिति यदनुभावावदादेडेडसूकोऽपि ववाग्मी
+Iteration 75: BEST OCR TEXT : म ि विल सा
+File tessdata_ramayana/ram027.lstmf line 20 :
+Mean rms=3.992%, delta=43.022%, train=101.384%(95.28%), skip ratio=9.211%
+Iteration 76: GROUND  TRUTH : उल्लड्ध्य सिन्धोः सलिलं सलीलं
+Iteration 76: ALIGNED TRUTH : उल््लड्ध्य सिन्धोः ः सलिलं सलीलं
+Iteration 76: BEST OCR TEXT : ीम
+File tessdata_ramayana/ram028.lstmf line 20 :
+Mean rms=3.986%, delta=42.788%, train=101.193%(95.342%), skip ratio=9.091%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 77: GROUND  TRUTH : काञ्चनाद्रिकमनीयविग्रहम् ।
+Iteration 77: ALIGNED TRUTH : कााञ्चनाद्रिकमनीयविग्रहम्् ।
+Iteration 77: BEST OCR TEXT : पाा
+File tessdata_ramayana/ram026.lstmf line 21 :
+Mean rms=3.979%, delta=42.518%, train=101.083%(95.401%), skip ratio=10.256%
+Iteration 78: GROUND  TRUTH : जानकीजानिमनिशं वन्दे मद्गुरुवन्दितम् ॥ ५ ॥
+Iteration 78: ALIGNED TRUTH : जानननकीजानिमिमनिशं वन्दे मद्गगुरुवन्दिदितम् ॥ ५ ॥ ॥
+Iteration 78: BEST OCR TEXT : सी  िय
+File tessdata_ramayana/ram027.lstmf line 21 :
+Mean rms=3.964%, delta=42.12%, train=100.893%(95.46%), skip ratio=10.127%
+Iteration 79: GROUND  TRUTH : काञ्चनाद्रिकमनीयविग्रहम् ।
+Iteration 79: ALIGNED TRUTH : काञ्चननाद््रिकमननीयवयिविग्रहम् ।
+Iteration 79: BEST OCR TEXT : ' ानेयि न
+File tessdata_ramayana/ram028.lstmf line 21 :
+Mean rms=3.953%, delta=41.755%, train=100.737%(95.516%), skip ratio=10%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 80: GROUND  TRUTH : प्राजानुवाहुमरविन्ददलायताञं
+Iteration 80: BEST OCR TEXT : सीापि ुाय
+File tessdata_ramayana/ram026.lstmf line 22 :
+Mean rms=3.955%, delta=41.696%, train=100.682%(95.572%), skip ratio=11.111%
+Iteration 81: GROUND  TRUTH : मिथ्यासिद्धान्तदुध्वन्तिविध्वंसनविचक्षणः ।
+Iteration 81: ALIGNED TRUTH : ममिथ्यासिद्धाान्तदुध्वन्तितवििध्वंसननविचक्षणः ।
+Iteration 81: BEST OCR TEXT : सनयेत ी
+File tessdata_ramayana/ram027.lstmf line 22 :
+Mean rms=3.952%, delta=41.546%, train=100.561%(95.626%), skip ratio=10.976%
+Iteration 82: GROUND  TRUTH : अतृप्तरतं मुनि वन्दे प्राचेतसमकल्मपम् ॥ १२ ॥
+Iteration 82: BEST OCR TEXT : धः पि ा
+File tessdata_ramayana/ram028.lstmf line 22 :
+Mean rms=3.957%, delta=41.497%, train=100.472%(95.678%), skip ratio=10.843%
+Iteration 83: GROUND  TRUTH : वाल्मीकिमुनिसिंहस्य कवितावनचारिणः ।
+Iteration 83: BEST OCR TEXT : ्मय
+File tessdata_ramayana/ram025.lstmf line 0 :
+Mean rms=3.972%, delta=41.853%, train=100.367%(95.73%), skip ratio=10.714%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 84: GROUND  TRUTH : सर्वाभीष्टप्रदं रामं सर्वारिष्टनिवारकम् ।
+Iteration 84: ALIGNED TRUTH : सर्वाभीष्टप्रदं रामं सर्वारिािरिष्टनिवारकम् ।
+Iteration 84: BEST OCR TEXT : सरवविा
+File tessdata_ramayana/ram027.lstmf line 0 :
+Mean rms=3.961%, delta=41.539%, train=100.111%(95.78%), skip ratio=11.765%
+Iteration 85: GROUND  TRUTH : रामायणमहामालारत्नं वन्देऽनिलात्मजम् ॥ १३ ॥
+Iteration 85: BEST OCR TEXT : ी
+File tessdata_ramayana/ram028.lstmf line 0 :
+Mean rms=3.967%, delta=41.665%, train=100.109%(95.829%), skip ratio=11.628%
+Empty truth string!
+Can't encode transcription: '' in language ''
+Iteration 86: GROUND  TRUTH : दशशिरसश्च वधं निशामयच्चम् ॥ ११ ॥
+Iteration 86: ALIGNED TRUTH : दशशिरसश्च वधं निशाममयच्चम् ॥ ११ ॥
+Iteration 86: BEST OCR TEXT : ् नी
+File tessdata_ramayana/ram026.lstmf line 24 :
+Mean rms=3.977%, delta=41.809%, train=100.038%(95.877%), skip ratio=12.644%
+Iteration 87: GROUND  TRUTH : लक्ष्मीनारायणं वन्दे तद्भकप्रवरो हि यः।
+Iteration 87: ALIGNED TRUTH : लक्ष्मीनाररायणं ववन््द े तद्भकप्रवरो हि यः।
+Iteration 87: BEST OCR TEXT :  वि
+File tessdata_ramayana/ram027.lstmf line 1 :
+Mean rms=3.971%, delta=41.572%, train=99.867%(95.924%), skip ratio=12.5%
+Iteration 88: GROUND  TRUTH : श्रृगवनरामकथानादं को न याति परां गतिम् ॥ ११ ॥
+Iteration 88: BEST OCR TEXT : ी
+File tessdata_ramayana/ram028.lstmf line 1 :
+Mean rms=3.98%, delta=41.765%, train=99.844%(95.97%), skip ratio=12.36%
+Compute CTC targets failed!
+Iteration 89: GROUND  TRUTH : तत्र तत्र कृतमस्तकालिम् ।
+Iteration 89: BEST OCR TEXT : य य ा
+File tessdata_ramayana/ram026.lstmf line 0 :
+Mean rms=3.98%, delta=41.681%, train=99.803%(96.015%), skip ratio=13.333%
+Iteration 90: GROUND  TRUTH : जयतीर्थाख्यतरणिर्भासतां नो हृदम्वरे ॥८॥
+Iteration 90: ALIGNED TRUTH : जययतीरर्थाख्यतयरतिरणिर्रा्ं भाासतांां नोो हृदमम्वरे ॥ ॥८॥
+Iteration 90: BEST OCR TEXT : म  वि    ७
+File tessdata_ramayana/ram027.lstmf line 2 :
+Mean rms=3.97%, delta=41.398%, train=99.749%(96.058%), skip ratio=13.187%
+Iteration 91: GROUND  TRUTH : पादाय तेनैव ददाह लड्डां
+Iteration 91: ALIGNED TRUTH : पाद ाया याततेनैव दददाह ललड्डां
+Iteration 91: BEST OCR TEXT : य ि
+File tessdata_ramayana/ram028.lstmf line 2 :
+Mean rms=3.958%, delta=41.098%, train=99.616%(96.101%), skip ratio=13.043%
+Iteration 92: GROUND  TRUTH : अज्जनानन्दनं वोरं जानकीशोकनाशनम ।
+Iteration 92: ALIGNED TRUTH : अज्जनानन्दननं वोरंं जानकीशोकनाशनम ।
+Iteration 92: BEST OCR TEXT : य व ि
+File tessdata_ramayana/ram025.lstmf line 3 :
+Mean rms=3.952%, delta=40.895%, train=99.557%(96.143%), skip ratio=12.903%
+Iteration 93: GROUND  TRUTH :  प्रादाय तेनैव ददाह लड्कां
+Iteration 93: BEST OCR TEXT :
+File tessdata_ramayana/ram026.lstmf line 1 :
+Mean rms=3.953%, delta=40.966%, train=99.522%(96.184%), skip ratio=12.766%
+Iteration 94: GROUND  TRUTH : वेदे रामायणे चैव पुराणे भारते तथा ।
+Iteration 94: BEST OCR TEXT : ली
+File tessdata_ramayana/ram027.lstmf line 3 :
+Mean rms=3.95%, delta=40.777%, train=99.468%(96.224%), skip ratio=12.632%
+Iteration 95: GROUND  TRUTH : मारुह्य कविताशास्रां वन्दे वाल्मीकिकोकिलम् ॥ १०॥
+Iteration 95: ALIGNED TRUTH : मारुह्यय कविताशास्रां वन्दे वाल्मीकिकोकिलम् ॥ १०॥
+Iteration 95: BEST OCR TEXT :
+File tessdata_ramayana/ram028.lstmf line 3 :
+Mean rms=3.951%, delta=40.772%, train=99.387%(96.264%), skip ratio=12.5%
+Iteration 96: GROUND  TRUTH : श्रीवैष्णवसम्प्रदाय
+Iteration 96: ALIGNED TRUTH : श्रीीवैष्््णवसम्प्रदााय
+Iteration 96: BEST OCR TEXT : क ाा  ,      ी
+File tessdata_ramayana/ram025.lstmf line 4 :
+Mean rms=3.951%, delta=40.812%, train=99.909%(96.302%), skip ratio=12.371%
+Iteration 97: GROUND  TRUTH : रघुवरचरितं मुनिप्रणीतं
+Iteration 97: BEST OCR TEXT : समप
+File tessdata_ramayana/ram026.lstmf line 2 :
+Mean rms=3.952%, delta=40.757%, train=99.821%(96.34%), skip ratio=12.245%
+Iteration 98: GROUND  TRUTH : प्रसन्नवदनं ध्यायेत्सर्वविध्नोपशान्तये ॥ १॥
+Iteration 98: BEST OCR TEXT :
+File tessdata_ramayana/ram027.lstmf line 4 :
+Mean rms=3.967%, delta=41.079%, train=99.823%(96.377%), skip ratio=12.121%
+Iteration 99: GROUND  TRUTH : वाल्मीकैर्मुनिसिंहस्य कवितावनचारिगाः ।
+Iteration 99: BEST OCR TEXT :
+File tessdata_ramayana/ram028.lstmf line 4 :
+Mean rms=3.967%, delta=41.001%, train=99.748%(96.413%), skip ratio=12%
+2 Percent improvement time=100, best error was 100 @ 0
+At iteration 100/100/112, Mean rms=3.967%, delta=41.001%, char train=99.748%, word train=96.413%, skip ratio=12%,  New best char error = 99.748 wrote checkpoint.
+
+Finished! Error rate = 99.748
+ERROR: Could not parse int32_t from {300..700..100}
+Loaded file build/ram_checkpoint, unpacking...
+Loaded 16/16 lines (1-16) of document tessdata_ramayana/ram-eval.lstmf
+Warning: LSTMTrainer deserialized an LSTMRecognizer!
+At iteration 0, stage 0, Eval Char error rate=78.541606, Word error rate=97.33631
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+17.68user 0.46system 0:05.84elapsed 310%CPU (0avgtext+0avgdata 133708maxresident)k
+0inputs+0outputs (0major+54588minor)pagefaults 0swaps
+
+======================================================================
+[-ग्रन्थ में व्यवहृत सङ्केताक्षरों की व्याख्या
+
+(गो०) गोविन्दराजीय भूषणटीका ।
+
+(रा० ) नागेश भट्ट की रामाभिरामी टीका।
+
+(शि०) शिवसहायराम की शिरोमणिटीका ।
+
+(वि०) विषमपदविवृतिटीका।-]{+न्थ म व्यत स+}
+======================================================================
+  [-) जो वाक्य ऐसे कोष्टक के भीतर हैं वे अनुवादक के
+
+अपने हैं और कथा-] {+०) य
+(०) न+}
+======================================================================
+ [-असङ्गति दूर करने के लिये
+
+जोड़ दिये गये हैं।
+
+[नोट] ऐसे कोष्टक के भीतर मिहीन अक्षरों में जो " नोट"
+
+अर्थात टिप्पणियां दी गयी हैं,-] {+र
+(०) य
+(०)
+(य स न क त+}
+======================================================================
+ [-अनुवादक के स्वतंत्र
+
+विचार हैं।
+
+(शि० गो० ) अनुवाद के जिस श्लोक के अन्त में (शि०)-]
+{+ने र त
+ज य
+[नो | से क क भी म
+व यी
+व्च
+ह (शि ०) न ज क शया
+य ये व ये
+व
+य
+या+}
+======================================================================
+
+
+[-(गो०) अक्षर दिये गये हैं, वहाँ समझना चाहिये
+
+कि वह श्लोक शिरोमणि टीकाकार के मतानुसार
+
+अथवा गोविन्दराजीय भूषणटीका के अनुसार
+
+अनूदित किया गया है।-] {+ह+}
+======================================================================
+tessdata_ramayana/ram-eval.gt.txt: 108 words  4 4% common  0 0% deleted  104 96% changed
+build/ram-eval.txt: 51 words  4 8% common  0 0% inserted  47 92% changed
+Convert to Integer Model
+Loaded file build/ram_checkpoint, unpacking...
+Loaded 16/16 lines (1-16) of document tessdata_ramayana/ram-eval.lstmf
+Warning: LSTMTrainer deserialized an LSTMRecognizer!
+At iteration 0, stage 0, Eval Char error rate=76.729553, Word error rate=97.33631
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+8.18user 0.50system 0:03.49elapsed 248%CPU (0avgtext+0avgdata 125332maxresident)k
+0inputs+0outputs (0major+45437minor)pagefaults 0swaps
+
+======================================================================
+[-ग्रन्थ में व्यवहृत सङ्केताक्षरों की व्याख्या
+
+(गो०) गोविन्दराजीय भूषणटीका ।
+
+(रा० ) नागेश भट्ट की रामाभिरामी टीका।
+
+(शि०) शिवसहायराम की शिरोमणिटीका ।
+
+(वि०) विषमपदविवृतिटीका।-]{+न्थ म व्यत स+}
+======================================================================
+  [-) जो वाक्य ऐसे कोष्टक के भीतर हैं वे अनुवादक के
+
+अपने हैं और कथा-] {+०) य
+(०) ना न+}
+======================================================================
+ [-असङ्गति दूर करने के लिये
+
+जोड़ दिये गये हैं।
+
+[नोट] ऐसे कोष्टक के भीतर मिहीन अक्षरों में जो " नोट"
+
+अर्थात टिप्पणियां दी गयी हैं,-] {+मी
+( ०) य
+(०) व
+(जा स न क त+}
+======================================================================
+ [-अनुवादक के स्वतंत्र
+
+विचार हैं।
+
+(शि० गो० ) अनुवाद के जिस श्लोक के अन्त में (शि०)-]
+{+ने हे र यी ते न य
+ज य
+[नो | से क क भी मी
+वय यी
+च ।
+ह ( शि ०) न ज क श) या
+न) य ये व ये
+व
+या व
+त या+}
+======================================================================
+
+
+[-(गो०) अक्षर दिये गये हैं, वहाँ समझना चाहिये
+
+कि वह श्लोक शिरोमणि टीकाकार के मतानुसार
+
+अथवा गोविन्दराजीय भूषणटीका के अनुसार
+
+अनूदित किया गया है।-] {+ह+}
+======================================================================
+tessdata_ramayana/ram-eval.gt.txt: 108 words  4 4% common  0 0% deleted  104 96% changed
+build/ram_int-eval.txt: 64 words  4 6% common  0 0% inserted  60 94% changed
+Compare with Devanagari
+Loaded 16/16 lines (1-16) of document tessdata_ramayana/ram-eval.lstmf
+Warning: LSTMTrainer deserialized an LSTMRecognizer!
+At iteration 0, stage 0, Eval Char error rate=23.493713, Word error rate=47.414773
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+16.70user 0.46system 0:05.65elapsed 303%CPU (0avgtext+0avgdata 133584maxresident)k
+0inputs+0outputs (0major+54557minor)pagefaults 0swaps
+
+======================================================================
+ [-सङ्केताक्षरों-] {+सङ्तात्षरों+}
+======================================================================
+
+
+[-(गो०) गोविन्दराजीय भूषणटीका-]
+
+{+( ये।० ) गोरविन्द्राजीय भूषणटी९।+}
+======================================================================
+
+
+[-(रा०-]
+
+{+( रा०+}
+======================================================================
+ [-टीका।
+
+(शि०) शिवसहायराम-] {+टीका ।
+
+( शशि० ) शिवसदायरास+}
+======================================================================
+
+
+[-(वि०) विषमपदविवृतिटीका।-]
+======================================================================
+ {+वि०+}
+======================================================================
+ [-जो वाक्य-] {+विषमपद्विवक्वतिटीका ।
+
+( ) ज्ञा घाक्य+}
+======================================================================
+ [-अनुवादक-] {+श्रनुवादक+}
+======================================================================
+
+
+[-अपने-] {+'
+पने+}
+======================================================================
+ [-और-] {+घौर+}
+======================================================================
+ [-असङ्गति-] {+झसङ्ति।+}
+======================================================================
+
+
+[-जोड़-]
+{+ज्ञाड़+}
+======================================================================
+ [-गये हैं।
+
+[नोट] ऐसे-] {+गयेहें ।
+
+[ नोट ] पेसे+}
+======================================================================
+ [-मिहीन अक्षरों-] {+मिद्दीन झत्तरों+}
+======================================================================
+ [-जो " नोट"
+
+अर्थात टिप्पणियां दी-] {+ज्ञा “ नोट "”
+श्मर्थात्‌ टिप्पणियाँ दो+}
+======================================================================
+ [-हैं।
+
+(शि०-] {+हें ।
+
+( शि०+}
+======================================================================
+ [-अनुवाद-] {+झसुवाद+}
+======================================================================
+ [-श्लोक-] {+श्छोक+}
+======================================================================
+ [-अन्त-] {+शन्त+}
+======================================================================
+ [-(शि०)-] {+( शि९ )+}
+======================================================================
+
+
+[-(गो०) अक्षर-]
+
+{+, ( गो० ) शअक्षर+}
+======================================================================
+ [-वह श्लोक शिरोमणि टीकाकार के मतानुसार
+
+अथवा गोविन्दराजीय-] {+बह श्टोक शिरामणि ठीकाकार के मतासुसार
+
+खथवा शाविन्दराजीय+}
+======================================================================
+ [-अनुसार
+
+अनूदित-] {+धनुसार
+गरनूदित+}
+======================================================================
+tessdata_ramayana/ram-eval.gt.txt: 108 words  61 56% common  2 2% deleted  45 42% changed
+build/ram-eval-deva.txt: 128 words  61 48% common  1 1% inserted  66 52% changed
+Compare with Sanskrit
+Loaded 16/16 lines (1-16) of document tessdata_ramayana/ram-eval.lstmf
+Warning: LSTMTrainer deserialized an LSTMRecognizer!
+Encoding of string failed! Failure bytes: e0 a4 94 e0 a4 b0 20 e0 a4 95 e0 a4 a5 e0 a4 be 20 e0 a4 95 e0 a5 80 20 e0 a4 85 e0 a4 b8 e0 a4 99 e0 a5 8d e0 a4 97 e0 a4 a4 e0 a4 bf 20 e0 a4 a6 e0 a5 82 e0 a4 b0 20 e0 a4 95 e0 a4 b0 e0 a4 a8 e0 a5 87 20 e0 a4 95 e0 a5 87 20 e0 a4 b2 e0 a4 bf e0 a4 af e0 a5 87 20
+Can't encode transcription: 'अपने हैं और कथा की असङ्गति दूर करने के लिये ' in language ''
+Encoding of string failed! Failure bytes: e0 a4 90 e0 a4 b8 e0 a5 87 20 e0 a4 95 e0 a5 8b e0 a4 b7 e0 a5 8d e0 a4 9f e0 a4 95 20 e0 a4 95 e0 a5 87 20 e0 a4 ad e0 a5 80 e0 a4 a4 e0 a4 b0 20 e0 a4 b9 e0 a5 88 e0 a4 82 20 e0 a4 b5 e0 a5 87 20 e0 a4 85 e0 a4 a8 e0 a5 81 e0 a4 b5 e0 a4 be e0 a4 a6 e0 a4 95 20 e0 a4 95 e0 a5 87 20
+Can't encode transcription: '(  ) जो वाक्य ऐसे कोष्टक के भीतर हैं वे अनुवादक के ' in language ''
+Encoding of string failed! Failure bytes: e0 a4 9d e0 a4 a8 e0 a4 be 20 e0 a4 9a e0 a4 be e0 a4 b9 e0 a4 bf e0 a4 af e0 a5 87 20
+Can't encode transcription: '(गो०) अक्षर दिये गये हैं, वहाँ समझना चाहिये ' in language ''
+Encoding of string failed! Failure bytes: e0 a4 90 e0 a4 b8 e0 a5 87 20 e0 a4 95 e0 a5 8b e0 a4 b7 e0 a5 8d e0 a4 9f e0 a4 95 20 e0 a4 95 e0 a5 87 20 e0 a4 ad e0 a5 80 e0 a4 a4 e0 a4 b0 20 e0 a4 ae e0 a4 bf e0 a4 b9 e0 a5 80 e0 a4 a8 20 e0 a4 85 e0 a4 95 e0 a5 8d e0 a4 b7 e0 a4 b0 e0 a5 8b e0 a4 82 20 e0 a4 ae e0 a5 87 e0 a4 82 20 e0 a4 9c e0 a5 8b 20 22 20 e0 a4 a8 e0 a5 8b e0 a4 9f 22 20
+Can't encode transcription: '[नोट] ऐसे कोष्टक के भीतर मिहीन अक्षरों में जो " नोट" ' in language ''
+Encoding of string failed! Failure bytes: e0 a4 94 e0 a4 b0 20 e0 a4 95 e0 a4 a5 e0 a4 be 20 e0 a4 95 e0 a5 80 20 e0 a4 85 e0 a4 b8 e0 a4 99 e0 a5 8d e0 a4 97 e0 a4 a4 e0 a4 bf 20 e0 a4 a6 e0 a5 82 e0 a4 b0 20 e0 a4 95 e0 a4 b0 e0 a4 a8 e0 a5 87 20 e0 a4 95 e0 a5 87 20 e0 a4 b2 e0 a4 bf e0 a4 af e0 a5 87 20
+Can't encode transcription: 'अपने हैं और कथा की असङ्गति दूर करने के लिये ' in language ''
+At iteration 0, stage 0, Eval Char error rate=38.753855, Word error rate=73.338294
+Tesseract Open Source OCR Engine v5.0.0-alpha-354-g0ded6 with Leptonica
+6.57user 0.39system 0:02.82elapsed 246%CPU (0avgtext+0avgdata 111328maxresident)k
+0inputs+0outputs (0major+39150minor)pagefaults 0swaps
+
+======================================================================
+[-ग्रन्थ में-]{+न्थ म॑+}
+======================================================================
+ [-सङ्केताक्षरों की-] {+सङ्तात्तरो री+}
+======================================================================
+
+
+[-(गो०) गोविन्दराजीय भूषणटीका ।
+
+(रा०-]
+
+{+( गा०+}
+======================================================================
+ {+गेविन्दसजीय भृष्टी ¦
+
+( रा० }+}
+======================================================================
+ [-भट्ट-] {+मड+}
+======================================================================
+ [-रामाभिरामी टीका।
+
+(शि०) शिवसहायराम-] {+रामाभिसमी रीका ।
+
+( शि० ) शिवसद्ाययम+}
+======================================================================
+ [-शिरोमणिटीका-] {+शिरोपणिरीक्रा+}
+======================================================================
+
+
+[-(वि०) विषमपदविवृतिटीका।-]
+======================================================================
+ {+वि०+}
+======================================================================
+ [-जो वाक्य ऐसे कोष्टक के-] {+विषमपद्विदुतिरीका |
+
+( ) ज्ञा चाक्य पसे काणक कै+}
+======================================================================
+ [-हैं वे अनुवादक के
+
+अपने हैं और-] {+हवे श्रचुवादक कै.
+पने दह ्नौर+}
+======================================================================
+ [-असङ्गति दूर-] {+खङ्कुति। दुर+}
+======================================================================
+
+
+[-जोड़-]
+{+जाड+}
+======================================================================
+ [-गये हैं।
+
+[नोट] ऐसे कोष्टक-] {+गगरे ।
+
+[ नोट | पेसे कोक+}
+======================================================================
+ [-अक्षरों में जो " नोट"
+
+अर्थात टिप्पणियां-] {+्तर्योमे ज्ञा “ नोट "'
+श्र्थात्‌ यिप्पशि्या+}
+======================================================================
+ [-गयी हैं,-] {+गयो है,+}
+======================================================================
+ [-अनुवादक के स्वतंत्र
+
+विचार हैं।
+
+(शि०-] {+ध्रञवाद्क फे स्वर्त्च
+विचारदहे।
+
+्‌ ( शि०+}
+======================================================================
+ [-अनुवाद-] {+श्तुवाद्‌+}
+======================================================================
+ [-श्लोक-] {+शोक+}
+======================================================================
+ [-अन्त में (शि०) या
+
+(गो०) अक्षर-] {+न्त मे ( शि०)या
+
+, (८ गो० ) अन्तर+}
+======================================================================
+ [-हैं, वहाँ समझना चाहिये-] {+है, वरहा खमना चादिये+}
+======================================================================
+ [-श्लोक शिरोमणि टीकाकार के मतानुसार
+
+अथवा गोविन्दराजीय भूषणटीका-] {+छोच शिथिमरणि दीकाकार कै मताद्धसार
+
+| मथवा गाविन्दराजीथ भूष्णटीका+}
+======================================================================
+ [-अनुसार
+
+अनूदित-] {+ध्रचुसार
+दमनूद्दित+}
+======================================================================
+ [-है।-] {+है !+}
+======================================================================
+tessdata_ramayana/ram-eval.gt.txt: 108 words  33 31% common  2 2% deleted  73 68% changed
+build/ram-eval-san.txt: 124 words  33 27% common  7 6% inserted  84 68% changed

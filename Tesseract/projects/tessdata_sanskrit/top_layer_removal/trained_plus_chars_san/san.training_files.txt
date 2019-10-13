@@ -1,0 +1,1 @@
+./trained_plus_chars_san/san.chandas.exp0.lstmf
